@@ -12,6 +12,8 @@ no servidor.
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 import requests
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 print('\n - Lendo o arquivo com o dataset sobre diabetes')
 data = pd.read_csv('/Users/davideneas/Library/CloudStorage/OneDrive-InstitutodeComputação-UniversidadeFederaldeAlagoas/4. Quarto Periodo/PM/atividades/mlclass/01_Preprocessing/diabetes_dataset.csv')
@@ -78,11 +80,11 @@ print(' - Preenchendo valores nulos parciais com zero')
 data = fill_null_with_zero(data, partially_null)
 
 # Etapa 4: Inspecionar as colunas para verificar se ainda há valores nulos
-print(' - Verificando se ainda há valores nulos')
+print(' - Verificando valores nulos na base de dados')
 mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
 
 # Selecione as colunas de X e y
-X = data.drop(columns=['Outcome'])  # Remover a coluna 'Outcome' que é o alvo
+X = data.drop(columns=['Outcome']) # Remover a coluna 'Outcome' que é o alvo
 y = data['Outcome']  # A coluna 'Outcome' é o alvo
 
 # Verificar se há valores ausentes antes de treinar o modelo

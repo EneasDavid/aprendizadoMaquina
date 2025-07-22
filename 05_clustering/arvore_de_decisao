@@ -1,0 +1,3156 @@
+digraph "Arvore de Decisão" {
+	"K1 = 30.93"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 30.93" -> "Classe = 0"
+	"K1 = 30.96"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 30.96" -> "Classe = 0"
+	"K1 = 31.9"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 31.9" -> "Classe = 0"
+	"K1 = 34.7"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 34.7" -> "Classe = 0"
+	"K1 = 35.2"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 35.2" -> "Classe = 0"
+	"K1 = 36.4"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 36.4" -> "Classe = 0"
+	"K1 = 37.09"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 37.09" -> "Classe = 0"
+	"K1 = 37.54"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 37.54" -> "Classe = 0"
+	"K1 = 37.58"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 37.58" -> "Classe = 0"
+	"K1 = 37.71"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 37.71" -> "Classe = 0"
+	"K1 = 38.4"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 38.4" -> "Classe = 0"
+	"K1 = 38.66"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 38.66" -> "Classe = 0"
+	"K1 = 38.75"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 38.75" -> "Classe = 0"
+	"K1 = 38.97"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 38.97" -> "Classe = 0"
+	"K1 = 39.15"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.15" -> "Classe = 0"
+	"K1 = 39.29"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.29" -> "Classe = 0"
+	"K1 = 39.35"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.35" -> "Classe = 0"
+	"K1 = 39.43"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.43" -> "Classe = 0"
+	"K1 = 39.47"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.47" -> "Classe = 0"
+	"K1 = 39.52"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.52" -> "Classe = 0"
+	"K1 = 39.61"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.61" -> "Classe = 0"
+	"K1 = 39.7"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.7" -> "Classe = 0"
+	"K1 = 39.71"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.71" -> "Classe = 0"
+	"K1 = 39.8"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.8" -> "Classe = 0"
+	"K1 = 39.85"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.85" -> "Classe = 0"
+	"K1 = 39.89"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.89" -> "Classe = 0"
+	"K1 = 39.99"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 39.99" -> "Classe = 0"
+	"K1 = 40.04"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.04" -> "Classe = 0"
+	"K1 = 40.08"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.08" -> "Classe = 0"
+	"K1 = 40.23"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.23" -> "Classe = 0"
+	"K1 = 40.27"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.27" -> "Classe = 0"
+	"K1 = 40.32"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.32" -> "Classe = 0"
+	"K1 = 40.37"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.37" -> "Classe = 0"
+	"K1 = 40.42"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.42" -> "Classe = 0"
+	"K1 = 40.47"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.47" -> "Classe = 0"
+	"K1 = 40.52"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.52" -> "Classe = 0"
+	"K1 = 40.56"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.56" -> "Classe = 0"
+	"K1 = 40.6"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.6" -> "Classe = 0"
+	"K1 = 40.61"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.61" -> "Classe = 0"
+	"K1 = 40.71"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.71" -> "Classe = 0"
+	"K1 = 40.76"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.76" -> "Classe = 0"
+	"K1 = 40.81"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.81" -> "Classe = 0"
+	"K1 = 40.86"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.86" -> "Classe = 0"
+	"K1 = 40.91"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.91" -> "Classe = 0"
+	"K1 = 40.96"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 40.96" -> "Classe = 0"
+	"K1 = 41.01"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.01" -> "Classe = 0"
+	"K1 = 41.06"
+	"AL = 22.38"
+	"K1 = 41.06" -> "AL = 22.38"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 22.38" -> "Classe = 0"
+	"AL = 22.84"
+	"K1 = 41.06" -> "AL = 22.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.84" -> "Classe = 2"
+	"AL = 24.28"
+	"K1 = 41.06" -> "AL = 24.28"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.28" -> "Classe = 0"
+	"AL = 24.41"
+	"K1 = 41.06" -> "AL = 24.41"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.41" -> "Classe = 0"
+	"AL = 24.47"
+	"K1 = 41.06" -> "AL = 24.47"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.47" -> "Classe = 0"
+	"AL = 24.61"
+	"K1 = 41.06" -> "AL = 24.61"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.61" -> "Classe = 0"
+	"AL = 24.65"
+	"K1 = 41.06" -> "AL = 24.65"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.65" -> "Classe = 0"
+	"AL = 27.72"
+	"K1 = 41.06" -> "AL = 27.72"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 27.72" -> "Classe = 0"
+	"K1 = 41.1"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.1" -> "Classe = 0"
+	"K1 = 41.11"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.11" -> "Classe = 0"
+	"K1 = 41.16"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.16" -> "Classe = 0"
+	"K1 = 41.21"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.21" -> "Classe = 0"
+	"K1 = 41.26"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.26" -> "Classe = 0"
+	"K1 = 41.31"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.31" -> "Classe = 0"
+	"K1 = 41.36"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.36" -> "Classe = 0"
+	"K1 = 41.41"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.41" -> "Classe = 0"
+	"K1 = 41.46"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.46" -> "Classe = 0"
+	"K1 = 41.51"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.51" -> "Classe = 0"
+	"K1 = 41.56"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.56" -> "Classe = 0"
+	"K1 = 41.62"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.62" -> "Classe = 0"
+	"K1 = 41.67"
+	"AL = 23.58"
+	"K1 = 41.67" -> "AL = 23.58"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.58" -> "Classe = 2"
+	"AL = 23.72"
+	"K1 = 41.67" -> "AL = 23.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.72" -> "Classe = 2"
+	"AL = 23.76"
+	"K1 = 41.67" -> "AL = 23.76"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.76" -> "Classe = 0"
+	"AL = 23.8"
+	"K1 = 41.67" -> "AL = 23.8"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.8" -> "Classe = 0"
+	"AL = 23.89"
+	"K1 = 41.67" -> "AL = 23.89"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.89" -> "Classe = 0"
+	"AL = 23.9"
+	"K1 = 41.67" -> "AL = 23.9"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.9" -> "Classe = 0"
+	"AL = 23.97"
+	"K1 = 41.67" -> "AL = 23.97"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.97" -> "Classe = 0"
+	"AL = 24.18"
+	"K1 = 41.67" -> "AL = 24.18"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.18" -> "Classe = 0"
+	"AL = 24.93"
+	"K1 = 41.67" -> "AL = 24.93"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.93" -> "Classe = 0"
+	"K1 = 41.72"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.72" -> "Classe = 0"
+	"K1 = 41.75"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 41.75" -> "Classe = 2"
+	"K1 = 41.77"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.77" -> "Classe = 0"
+	"K1 = 41.82"
+	"AL = 21.76"
+	"K1 = 41.82" -> "AL = 21.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 21.76" -> "Classe = 2"
+	"AL = 22.29"
+	"K1 = 41.82" -> "AL = 22.29"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.29" -> "Classe = 2"
+	"AL = 22.93"
+	"K1 = 41.82" -> "AL = 22.93"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.93" -> "Classe = 2"
+	"AL = 22.99"
+	"K1 = 41.82" -> "AL = 22.99"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 22.99" -> "Classe = 0"
+	"AL = 23.34"
+	"K1 = 41.82" -> "AL = 23.34"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.34" -> "Classe = 0"
+	"AL = 23.35"
+	"K1 = 41.82" -> "AL = 23.35"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.35" -> "Classe = 0"
+	"AL = 23.81"
+	"K1 = 41.82" -> "AL = 23.81"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.81" -> "Classe = 0"
+	"AL = 23.84"
+	"K1 = 41.82" -> "AL = 23.84"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.84" -> "Classe = 0"
+	"AL = 23.85"
+	"K1 = 41.82" -> "AL = 23.85"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.85" -> "Classe = 0"
+	"AL = 24.54"
+	"K1 = 41.82" -> "AL = 24.54"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.54" -> "Classe = 0"
+	"AL = 25.31"
+	"K1 = 41.82" -> "AL = 25.31"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.31" -> "Classe = 0"
+	"AL = 26.56"
+	"K1 = 41.82" -> "AL = 26.56"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.56" -> "Classe = 0"
+	"K1 = 41.87"
+	"AL = 22.91"
+	"K1 = 41.87" -> "AL = 22.91"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.91" -> "Classe = 2"
+	"AL = 23.02"
+	"K1 = 41.87" -> "AL = 23.02"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.02" -> "Classe = 0"
+	"AL = 23.26"
+	"K1 = 41.87" -> "AL = 23.26"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.26" -> "Classe = 2"
+	"AL = 23.45"
+	"K1 = 41.87" -> "AL = 23.45"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.45" -> "Classe = 0"
+	"AL = 23.49"
+	"K1 = 41.87" -> "AL = 23.49"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.49" -> "Classe = 0"
+	"AL = 23.52"
+	"K1 = 41.87" -> "AL = 23.52"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.52" -> "Classe = 0"
+	"AL = 23.72"
+	"K1 = 41.87" -> "AL = 23.72"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.72" -> "Classe = 0"
+	"AL = 23.73"
+	"K1 = 41.87" -> "AL = 23.73"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.73" -> "Classe = 0"
+	"AL = 23.75"
+	"K1 = 41.87" -> "AL = 23.75"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.75" -> "Classe = 0"
+	"AL = 23.8"
+	"K1 = 41.87" -> "AL = 23.8"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.8" -> "Classe = 0"
+	"AL = 23.87"
+	"K1 = 41.87" -> "AL = 23.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.87" -> "Classe = 2"
+	"AL = 24.0"
+	"K1 = 41.87" -> "AL = 24.0"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.0" -> "Classe = 0"
+	"AL = 24.82"
+	"K1 = 41.87" -> "AL = 24.82"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.82" -> "Classe = 0"
+	"AL = 26.31"
+	"K1 = 41.87" -> "AL = 26.31"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.31" -> "Classe = 0"
+	"K1 = 41.93"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.93" -> "Classe = 0"
+	"K1 = 41.98"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 41.98" -> "Classe = 0"
+	"K1 = 42.03"
+	"AL = 22.21"
+	"K1 = 42.03" -> "AL = 22.21"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.21" -> "Classe = 2"
+	"AL = 22.44"
+	"K1 = 42.03" -> "AL = 22.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.44" -> "Classe = 2"
+	"AL = 22.72"
+	"K1 = 42.03" -> "AL = 22.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.72" -> "Classe = 2"
+	"AL = 23.28"
+	"K1 = 42.03" -> "AL = 23.28"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.28" -> "Classe = 0"
+	"AL = 23.31"
+	"K1 = 42.03" -> "AL = 23.31"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.31" -> "Classe = 0"
+	"AL = 23.32"
+	"K1 = 42.03" -> "AL = 23.32"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.32" -> "Classe = 0"
+	"AL = 23.35"
+	"K1 = 42.03" -> "AL = 23.35"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.35" -> "Classe = 0"
+	"AL = 23.51"
+	"K1 = 42.03" -> "AL = 23.51"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.51" -> "Classe = 0"
+	"AL = 23.53"
+	"K1 = 42.03" -> "AL = 23.53"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.53" -> "Classe = 0"
+	"AL = 23.77"
+	"K1 = 42.03" -> "AL = 23.77"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.77" -> "Classe = 0"
+	"AL = 23.78"
+	"K1 = 42.03" -> "AL = 23.78"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.78" -> "Classe = 0"
+	"AL = 23.87"
+	"K1 = 42.03" -> "AL = 23.87"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.87" -> "Classe = 0"
+	"AL = 24.08"
+	"K1 = 42.03" -> "AL = 24.08"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.08" -> "Classe = 0"
+	"AL = 24.16"
+	"K1 = 42.03" -> "AL = 24.16"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.16" -> "Classe = 0"
+	"AL = 24.28"
+	"K1 = 42.03" -> "AL = 24.28"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.28" -> "Classe = 0"
+	"AL = 24.42"
+	"K1 = 42.03" -> "AL = 24.42"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.42" -> "Classe = 0"
+	"AL = 24.6"
+	"K1 = 42.03" -> "AL = 24.6"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.6" -> "Classe = 2"
+	"AL = 24.79"
+	"K1 = 42.03" -> "AL = 24.79"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.79" -> "Classe = 0"
+	"AL = 24.85"
+	"K1 = 42.03" -> "AL = 24.85"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.85" -> "Classe = 0"
+	"AL = 25.61"
+	"K1 = 42.03" -> "AL = 25.61"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.61" -> "Classe = 0"
+	"K1 = 42.08"
+	"AL = 22.64"
+	"K1 = 42.08" -> "AL = 22.64"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 22.64" -> "Classe = 0"
+	"AL = 22.66"
+	"K1 = 42.08" -> "AL = 22.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.66" -> "Classe = 2"
+	"AL = 22.81"
+	"K1 = 42.08" -> "AL = 22.81"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 22.81" -> "Classe = 0"
+	"AL = 23.4"
+	"K1 = 42.08" -> "AL = 23.4"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.4" -> "Classe = 0"
+	"AL = 23.54"
+	"K1 = 42.08" -> "AL = 23.54"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.54" -> "Classe = 0"
+	"AL = 23.59"
+	"K1 = 42.08" -> "AL = 23.59"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.59" -> "Classe = 0"
+	"AL = 23.64"
+	"K1 = 42.08" -> "AL = 23.64"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.64" -> "Classe = 0"
+	"AL = 23.71"
+	"K1 = 42.08" -> "AL = 23.71"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.71" -> "Classe = 2"
+	"AL = 23.77"
+	"K1 = 42.08" -> "AL = 23.77"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.77" -> "Classe = 0"
+	"AL = 23.84"
+	"K1 = 42.08" -> "AL = 23.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.84" -> "Classe = 2"
+	"AL = 23.91"
+	"K1 = 42.08" -> "AL = 23.91"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.91" -> "Classe = 0"
+	"AL = 24.35"
+	"K1 = 42.08" -> "AL = 24.35"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.35" -> "Classe = 0"
+	"AL = 24.46"
+	"K1 = 42.08" -> "AL = 24.46"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.46" -> "Classe = 0"
+	"AL = 24.54"
+	"K1 = 42.08" -> "AL = 24.54"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.54" -> "Classe = 0"
+	"AL = 24.61"
+	"K1 = 42.08" -> "AL = 24.61"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.61" -> "Classe = 0"
+	"AL = 24.76"
+	"K1 = 42.08" -> "AL = 24.76"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.76" -> "Classe = 0"
+	"AL = 24.78"
+	"K1 = 42.08" -> "AL = 24.78"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.78" -> "Classe = 0"
+	"AL = 25.65"
+	"K1 = 42.08" -> "AL = 25.65"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.65" -> "Classe = 0"
+	"K1 = 42.13"
+	"AL = 22.48"
+	"K1 = 42.13" -> "AL = 22.48"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.48" -> "Classe = 2"
+	"AL = 22.66"
+	"K1 = 42.13" -> "AL = 22.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.66" -> "Classe = 2"
+	"AL = 22.97"
+	"K1 = 42.13" -> "AL = 22.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.97" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 42.13" -> "AL = 23.0"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.0" -> "Classe = 0"
+	"AL = 23.11"
+	"K1 = 42.13" -> "AL = 23.11"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.11" -> "Classe = 0"
+	"AL = 23.24"
+	"K1 = 42.13" -> "AL = 23.24"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.24" -> "Classe = 2"
+	"AL = 23.26"
+	"K1 = 42.13" -> "AL = 23.26"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.26" -> "Classe = 0"
+	"AL = 23.39"
+	"K1 = 42.13" -> "AL = 23.39"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.39" -> "Classe = 0"
+	"AL = 24.04"
+	"K1 = 42.13" -> "AL = 24.04"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.04" -> "Classe = 0"
+	"AL = 24.18"
+	"K1 = 42.13" -> "AL = 24.18"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.18" -> "Classe = 0"
+	"AL = 24.61"
+	"K1 = 42.13" -> "AL = 24.61"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.61" -> "Classe = 0"
+	"AL = 24.9"
+	"K1 = 42.13" -> "AL = 24.9"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.9" -> "Classe = 0"
+	"AL = 25.38"
+	"K1 = 42.13" -> "AL = 25.38"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.38" -> "Classe = 0"
+	"AL = 25.62"
+	"K1 = 42.13" -> "AL = 25.62"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.62" -> "Classe = 0"
+	"K1 = 42.19"
+	"AL = 22.78"
+	"K1 = 42.19" -> "AL = 22.78"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.78" -> "Classe = 2"
+	"AL = 22.99"
+	"K1 = 42.19" -> "AL = 22.99"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 22.99" -> "Classe = 0"
+	"AL = 23.19"
+	"K1 = 42.19" -> "AL = 23.19"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.19" -> "Classe = 2"
+	"AL = 23.32"
+	"K1 = 42.19" -> "AL = 23.32"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.32" -> "Classe = 0"
+	"AL = 23.34"
+	"K1 = 42.19" -> "AL = 23.34"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.34" -> "Classe = 0"
+	"AL = 23.44"
+	"K1 = 42.19" -> "AL = 23.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.44" -> "Classe = 2"
+	"AL = 23.58"
+	"K1 = 42.19" -> "AL = 23.58"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.58" -> "Classe = 2"
+	"AL = 23.75"
+	"K1 = 42.19" -> "AL = 23.75"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.75" -> "Classe = 0"
+	"AL = 23.78"
+	"K1 = 42.19" -> "AL = 23.78"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.78" -> "Classe = 0"
+	"AL = 23.84"
+	"K1 = 42.19" -> "AL = 23.84"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.84" -> "Classe = 0"
+	"AL = 23.97"
+	"K1 = 42.19" -> "AL = 23.97"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.97" -> "Classe = 0"
+	"AL = 23.98"
+	"K1 = 42.19" -> "AL = 23.98"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.98" -> "Classe = 2"
+	"AL = 24.16"
+	"K1 = 42.19" -> "AL = 24.16"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.16" -> "Classe = 0"
+	"AL = 24.17"
+	"K1 = 42.19" -> "AL = 24.17"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.17" -> "Classe = 0"
+	"AL = 24.19"
+	"K1 = 42.19" -> "AL = 24.19"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.19" -> "Classe = 0"
+	"AL = 25.43"
+	"K1 = 42.19" -> "AL = 25.43"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.43" -> "Classe = 0"
+	"K1 = 42.24"
+	"AL = 22.49"
+	"K1 = 42.24" -> "AL = 22.49"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.49" -> "Classe = 2"
+	"AL = 22.87"
+	"K1 = 42.24" -> "AL = 22.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.87" -> "Classe = 2"
+	"AL = 23.39"
+	"K1 = 42.24" -> "AL = 23.39"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.39" -> "Classe = 2"
+	"AL = 23.59"
+	"K1 = 42.24" -> "AL = 23.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.59" -> "Classe = 2"
+	"AL = 23.6"
+	"K1 = 42.24" -> "AL = 23.6"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.6" -> "Classe = 0"
+	"AL = 23.74"
+	"K1 = 42.24" -> "AL = 23.74"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.74" -> "Classe = 0"
+	"AL = 23.95"
+	"K1 = 42.24" -> "AL = 23.95"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.95" -> "Classe = 0"
+	"AL = 24.01"
+	"K1 = 42.24" -> "AL = 24.01"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.01" -> "Classe = 0"
+	"AL = 24.35"
+	"K1 = 42.24" -> "AL = 24.35"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.35" -> "Classe = 0"
+	"AL = 24.45"
+	"K1 = 42.24" -> "AL = 24.45"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.45" -> "Classe = 0"
+	"AL = 24.54"
+	"K1 = 42.24" -> "AL = 24.54"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.54" -> "Classe = 0"
+	"AL = 24.64"
+	"K1 = 42.24" -> "AL = 24.64"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.64" -> "Classe = 0"
+	"AL = 24.7"
+	"K1 = 42.24" -> "AL = 24.7"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.7" -> "Classe = 0"
+	"AL = 25.87"
+	"K1 = 42.24" -> "AL = 25.87"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.87" -> "Classe = 0"
+	"AL = 26.08"
+	"K1 = 42.24" -> "AL = 26.08"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.08" -> "Classe = 0"
+	"AL = 28.54"
+	"K1 = 42.24" -> "AL = 28.54"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 28.54" -> "Classe = 0"
+	"K1 = 42.29"
+	"AL = 22.68"
+	"K1 = 42.29" -> "AL = 22.68"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.68" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 42.29" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.17"
+	"K1 = 42.29" -> "AL = 23.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.17" -> "Classe = 2"
+	"AL = 23.33"
+	"K1 = 42.29" -> "AL = 23.33"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.33" -> "Classe = 0"
+	"AL = 23.5"
+	"K1 = 42.29" -> "AL = 23.5"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.5" -> "Classe = 0"
+	"AL = 23.55"
+	"K1 = 42.29" -> "AL = 23.55"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.55" -> "Classe = 2"
+	"AL = 23.58"
+	"K1 = 42.29" -> "AL = 23.58"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.58" -> "Classe = 2"
+	"AL = 23.71"
+	"K1 = 42.29" -> "AL = 23.71"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.71" -> "Classe = 0"
+	"AL = 23.72"
+	"K1 = 42.29" -> "AL = 23.72"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.72" -> "Classe = 0"
+	"AL = 23.91"
+	"K1 = 42.29" -> "AL = 23.91"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.91" -> "Classe = 0"
+	"AL = 23.93"
+	"K1 = 42.29" -> "AL = 23.93"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.93" -> "Classe = 2"
+	"AL = 24.03"
+	"K1 = 42.29" -> "AL = 24.03"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.03" -> "Classe = 2"
+	"AL = 24.12"
+	"K1 = 42.29" -> "AL = 24.12"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.12" -> "Classe = 2"
+	"AL = 24.25"
+	"K1 = 42.29" -> "AL = 24.25"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.25" -> "Classe = 0"
+	"AL = 24.61"
+	"K1 = 42.29" -> "AL = 24.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.61" -> "Classe = 2"
+	"AL = 24.88"
+	"K1 = 42.29" -> "AL = 24.88"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.88" -> "Classe = 0"
+	"AL = 25.13"
+	"K1 = 42.29" -> "AL = 25.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.13" -> "Classe = 2"
+	"AL = 26.13"
+	"K1 = 42.29" -> "AL = 26.13"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.13" -> "Classe = 0"
+	"K1 = 42.34"
+	"Classe = 0" [label="Classe = 0"]
+	"K1 = 42.34" -> "Classe = 0"
+	"K1 = 42.35"
+	"AL = 22.54"
+	"K1 = 42.35" -> "AL = 22.54"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.54" -> "Classe = 2"
+	"AL = 23.09"
+	"K1 = 42.35" -> "AL = 23.09"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.09" -> "Classe = 0"
+	"AL = 23.1"
+	"K1 = 42.35" -> "AL = 23.1"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.1" -> "Classe = 2"
+	"AL = 23.18"
+	"K1 = 42.35" -> "AL = 23.18"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.18" -> "Classe = 2"
+	"AL = 23.4"
+	"K1 = 42.35" -> "AL = 23.4"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.4" -> "Classe = 2"
+	"AL = 23.57"
+	"K1 = 42.35" -> "AL = 23.57"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.57" -> "Classe = 0"
+	"AL = 23.69"
+	"K1 = 42.35" -> "AL = 23.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.69" -> "Classe = 2"
+	"AL = 24.04"
+	"K1 = 42.35" -> "AL = 24.04"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.04" -> "Classe = 0"
+	"AL = 24.21"
+	"K1 = 42.35" -> "AL = 24.21"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.21" -> "Classe = 0"
+	"AL = 24.25"
+	"K1 = 42.35" -> "AL = 24.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.25" -> "Classe = 2"
+	"AL = 25.7"
+	"K1 = 42.35" -> "AL = 25.7"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.7" -> "Classe = 0"
+	"AL = 25.86"
+	"K1 = 42.35" -> "AL = 25.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.86" -> "Classe = 2"
+	"K1 = 42.4"
+	"AL = 22.84"
+	"K1 = 42.4" -> "AL = 22.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.84" -> "Classe = 2"
+	"AL = 22.86"
+	"K1 = 42.4" -> "AL = 22.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.86" -> "Classe = 2"
+	"AL = 22.88"
+	"K1 = 42.4" -> "AL = 22.88"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.88" -> "Classe = 2"
+	"AL = 23.12"
+	"K1 = 42.4" -> "AL = 23.12"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.12" -> "Classe = 2"
+	"AL = 23.22"
+	"K1 = 42.4" -> "AL = 23.22"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.22" -> "Classe = 2"
+	"AL = 23.42"
+	"K1 = 42.4" -> "AL = 23.42"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.42" -> "Classe = 2"
+	"AL = 23.61"
+	"K1 = 42.4" -> "AL = 23.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.61" -> "Classe = 2"
+	"AL = 23.66"
+	"K1 = 42.4" -> "AL = 23.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.66" -> "Classe = 2"
+	"AL = 23.74"
+	"K1 = 42.4" -> "AL = 23.74"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.74" -> "Classe = 2"
+	"AL = 23.76"
+	"K1 = 42.4" -> "AL = 23.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.76" -> "Classe = 2"
+	"AL = 23.97"
+	"K1 = 42.4" -> "AL = 23.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.97" -> "Classe = 2"
+	"AL = 23.98"
+	"K1 = 42.4" -> "AL = 23.98"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 23.98" -> "Classe = 0"
+	"AL = 24.13"
+	"K1 = 42.4" -> "AL = 24.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.13" -> "Classe = 2"
+	"AL = 24.51"
+	"K1 = 42.4" -> "AL = 24.51"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.51" -> "Classe = 0"
+	"AL = 24.67"
+	"K1 = 42.4" -> "AL = 24.67"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.67" -> "Classe = 0"
+	"AL = 25.01"
+	"K1 = 42.4" -> "AL = 25.01"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.01" -> "Classe = 0"
+	"AL = 25.63"
+	"K1 = 42.4" -> "AL = 25.63"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.63" -> "Classe = 0"
+	"AL = 25.86"
+	"K1 = 42.4" -> "AL = 25.86"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.86" -> "Classe = 0"
+	"K1 = 42.45"
+	"AL = 22.44"
+	"K1 = 42.45" -> "AL = 22.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.44" -> "Classe = 2"
+	"AL = 22.8"
+	"K1 = 42.45" -> "AL = 22.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.8" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 42.45" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.02"
+	"K1 = 42.45" -> "AL = 23.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.02" -> "Classe = 2"
+	"AL = 23.41"
+	"K1 = 42.45" -> "AL = 23.41"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.41" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 42.45" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 23.59"
+	"K1 = 42.45" -> "AL = 23.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.59" -> "Classe = 2"
+	"AL = 23.68"
+	"K1 = 42.45" -> "AL = 23.68"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.68" -> "Classe = 2"
+	"AL = 23.84"
+	"K1 = 42.45" -> "AL = 23.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.84" -> "Classe = 2"
+	"AL = 23.91"
+	"K1 = 42.45" -> "AL = 23.91"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.91" -> "Classe = 2"
+	"AL = 24.41"
+	"K1 = 42.45" -> "AL = 24.41"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.41" -> "Classe = 0"
+	"AL = 24.63"
+	"K1 = 42.45" -> "AL = 24.63"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.63" -> "Classe = 0"
+	"AL = 24.83"
+	"K1 = 42.45" -> "AL = 24.83"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.83" -> "Classe = 0"
+	"AL = 25.33"
+	"K1 = 42.45" -> "AL = 25.33"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.33" -> "Classe = 0"
+	"AL = 25.89"
+	"K1 = 42.45" -> "AL = 25.89"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.89" -> "Classe = 2"
+	"AL = 25.95"
+	"K1 = 42.45" -> "AL = 25.95"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.95" -> "Classe = 0"
+	"K1 = 42.51"
+	"AL = 23.36"
+	"K1 = 42.51" -> "AL = 23.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.36" -> "Classe = 2"
+	"AL = 23.51"
+	"K1 = 42.51" -> "AL = 23.51"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.51" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 42.51" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 24.05"
+	"K1 = 42.51" -> "AL = 24.05"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.05" -> "Classe = 2"
+	"AL = 24.22"
+	"K1 = 42.51" -> "AL = 24.22"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.22" -> "Classe = 2"
+	"AL = 24.28"
+	"K1 = 42.51" -> "AL = 24.28"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.28" -> "Classe = 0"
+	"AL = 25.75"
+	"K1 = 42.51" -> "AL = 25.75"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.75" -> "Classe = 0"
+	"K1 = 42.56"
+	"AL = 22.62"
+	"K1 = 42.56" -> "AL = 22.62"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.62" -> "Classe = 2"
+	"AL = 22.92"
+	"K1 = 42.56" -> "AL = 22.92"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.92" -> "Classe = 2"
+	"AL = 23.35"
+	"K1 = 42.56" -> "AL = 23.35"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.35" -> "Classe = 2"
+	"AL = 23.47"
+	"K1 = 42.56" -> "AL = 23.47"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.47" -> "Classe = 2"
+	"AL = 23.65"
+	"K1 = 42.56" -> "AL = 23.65"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.65" -> "Classe = 2"
+	"AL = 23.69"
+	"K1 = 42.56" -> "AL = 23.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.69" -> "Classe = 2"
+	"AL = 23.77"
+	"K1 = 42.56" -> "AL = 23.77"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.77" -> "Classe = 2"
+	"AL = 23.86"
+	"K1 = 42.56" -> "AL = 23.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.86" -> "Classe = 2"
+	"AL = 23.9"
+	"K1 = 42.56" -> "AL = 23.9"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.9" -> "Classe = 2"
+	"AL = 23.96"
+	"K1 = 42.56" -> "AL = 23.96"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.96" -> "Classe = 2"
+	"AL = 24.02"
+	"K1 = 42.56" -> "AL = 24.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.02" -> "Classe = 2"
+	"AL = 24.14"
+	"K1 = 42.56" -> "AL = 24.14"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.14" -> "Classe = 2"
+	"AL = 24.27"
+	"K1 = 42.56" -> "AL = 24.27"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.27" -> "Classe = 2"
+	"AL = 24.31"
+	"K1 = 42.56" -> "AL = 24.31"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.31" -> "Classe = 0"
+	"AL = 24.56"
+	"K1 = 42.56" -> "AL = 24.56"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.56" -> "Classe = 2"
+	"AL = 24.84"
+	"K1 = 42.56" -> "AL = 24.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.84" -> "Classe = 2"
+	"AL = 24.88"
+	"K1 = 42.56" -> "AL = 24.88"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.88" -> "Classe = 0"
+	"AL = 26.08"
+	"K1 = 42.56" -> "AL = 26.08"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.08" -> "Classe = 0"
+	"K1 = 42.61"
+	"AL = 21.95"
+	"K1 = 42.61" -> "AL = 21.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 21.95" -> "Classe = 2"
+	"AL = 22.97"
+	"K1 = 42.61" -> "AL = 22.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.97" -> "Classe = 2"
+	"AL = 23.08"
+	"K1 = 42.61" -> "AL = 23.08"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.08" -> "Classe = 2"
+	"AL = 23.23"
+	"K1 = 42.61" -> "AL = 23.23"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.23" -> "Classe = 2"
+	"AL = 23.44"
+	"K1 = 42.61" -> "AL = 23.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.44" -> "Classe = 2"
+	"AL = 23.56"
+	"K1 = 42.61" -> "AL = 23.56"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.56" -> "Classe = 2"
+	"AL = 23.65"
+	"K1 = 42.61" -> "AL = 23.65"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.65" -> "Classe = 2"
+	"AL = 23.79"
+	"K1 = 42.61" -> "AL = 23.79"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.79" -> "Classe = 2"
+	"AL = 24.03"
+	"K1 = 42.61" -> "AL = 24.03"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.03" -> "Classe = 2"
+	"AL = 24.05"
+	"K1 = 42.61" -> "AL = 24.05"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.05" -> "Classe = 2"
+	"AL = 24.34"
+	"K1 = 42.61" -> "AL = 24.34"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.34" -> "Classe = 0"
+	"AL = 26.01"
+	"K1 = 42.61" -> "AL = 26.01"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.01" -> "Classe = 0"
+	"AL = 26.38"
+	"K1 = 42.61" -> "AL = 26.38"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.38" -> "Classe = 0"
+	"AL = 26.99"
+	"K1 = 42.61" -> "AL = 26.99"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.99" -> "Classe = 0"
+	"K1 = 42.67"
+	"AL = 22.59"
+	"K1 = 42.67" -> "AL = 22.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.59" -> "Classe = 2"
+	"AL = 22.69"
+	"K1 = 42.67" -> "AL = 22.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.69" -> "Classe = 2"
+	"AL = 22.95"
+	"K1 = 42.67" -> "AL = 22.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.95" -> "Classe = 2"
+	"AL = 23.2"
+	"K1 = 42.67" -> "AL = 23.2"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.2" -> "Classe = 2"
+	"AL = 23.23"
+	"K1 = 42.67" -> "AL = 23.23"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.23" -> "Classe = 2"
+	"AL = 23.55"
+	"K1 = 42.67" -> "AL = 23.55"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.55" -> "Classe = 2"
+	"AL = 23.8"
+	"K1 = 42.67" -> "AL = 23.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.8" -> "Classe = 2"
+	"AL = 23.87"
+	"K1 = 42.67" -> "AL = 23.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.87" -> "Classe = 2"
+	"AL = 23.98"
+	"K1 = 42.67" -> "AL = 23.98"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.98" -> "Classe = 2"
+	"AL = 24.28"
+	"K1 = 42.67" -> "AL = 24.28"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.28" -> "Classe = 2"
+	"AL = 24.41"
+	"K1 = 42.67" -> "AL = 24.41"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.41" -> "Classe = 0"
+	"AL = 24.63"
+	"K1 = 42.67" -> "AL = 24.63"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.63" -> "Classe = 2"
+	"AL = 24.72"
+	"K1 = 42.67" -> "AL = 24.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.72" -> "Classe = 2"
+	"AL = 24.96"
+	"K1 = 42.67" -> "AL = 24.96"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.96" -> "Classe = 2"
+	"AL = 25.76"
+	"K1 = 42.67" -> "AL = 25.76"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.76" -> "Classe = 0"
+	"AL = 26.02"
+	"K1 = 42.67" -> "AL = 26.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.02" -> "Classe = 2"
+	"K1 = 42.72"
+	"AL = 22.58"
+	"K1 = 42.72" -> "AL = 22.58"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.58" -> "Classe = 2"
+	"AL = 22.65"
+	"K1 = 42.72" -> "AL = 22.65"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.65" -> "Classe = 2"
+	"AL = 22.89"
+	"K1 = 42.72" -> "AL = 22.89"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.89" -> "Classe = 2"
+	"AL = 22.97"
+	"K1 = 42.72" -> "AL = 22.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.97" -> "Classe = 2"
+	"AL = 23.13"
+	"K1 = 42.72" -> "AL = 23.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.13" -> "Classe = 2"
+	"AL = 23.22"
+	"K1 = 42.72" -> "AL = 23.22"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.22" -> "Classe = 2"
+	"AL = 23.27"
+	"K1 = 42.72" -> "AL = 23.27"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.27" -> "Classe = 2"
+	"AL = 23.38"
+	"K1 = 42.72" -> "AL = 23.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.38" -> "Classe = 2"
+	"AL = 23.43"
+	"K1 = 42.72" -> "AL = 23.43"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.43" -> "Classe = 2"
+	"AL = 23.51"
+	"K1 = 42.72" -> "AL = 23.51"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.51" -> "Classe = 2"
+	"AL = 23.59"
+	"K1 = 42.72" -> "AL = 23.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.59" -> "Classe = 2"
+	"AL = 23.61"
+	"K1 = 42.72" -> "AL = 23.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.61" -> "Classe = 2"
+	"AL = 23.67"
+	"K1 = 42.72" -> "AL = 23.67"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.67" -> "Classe = 2"
+	"AL = 23.98"
+	"K1 = 42.72" -> "AL = 23.98"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.98" -> "Classe = 2"
+	"AL = 24.03"
+	"K1 = 42.72" -> "AL = 24.03"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.03" -> "Classe = 2"
+	"AL = 24.1"
+	"K1 = 42.72" -> "AL = 24.1"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.1" -> "Classe = 2"
+	"AL = 24.21"
+	"K1 = 42.72" -> "AL = 24.21"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.21" -> "Classe = 2"
+	"AL = 24.32"
+	"K1 = 42.72" -> "AL = 24.32"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.32" -> "Classe = 2"
+	"AL = 24.38"
+	"K1 = 42.72" -> "AL = 24.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.38" -> "Classe = 2"
+	"AL = 24.47"
+	"K1 = 42.72" -> "AL = 24.47"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.47" -> "Classe = 0"
+	"AL = 24.61"
+	"K1 = 42.72" -> "AL = 24.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.61" -> "Classe = 2"
+	"AL = 25.41"
+	"K1 = 42.72" -> "AL = 25.41"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 25.41" -> "Classe = 0"
+	"K1 = 42.78"
+	"AL = 21.5"
+	"K1 = 42.78" -> "AL = 21.5"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.5" -> "Classe = 1"
+	"AL = 22.81"
+	"K1 = 42.78" -> "AL = 22.81"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.81" -> "Classe = 1"
+	"AL = 22.86"
+	"K1 = 42.78" -> "AL = 22.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.86" -> "Classe = 2"
+	"AL = 23.06"
+	"K1 = 42.78" -> "AL = 23.06"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.06" -> "Classe = 2"
+	"AL = 23.17"
+	"K1 = 42.78" -> "AL = 23.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.17" -> "Classe = 2"
+	"AL = 23.43"
+	"K1 = 42.78" -> "AL = 23.43"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.43" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 42.78" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 23.58"
+	"K1 = 42.78" -> "AL = 23.58"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.58" -> "Classe = 2"
+	"AL = 23.68"
+	"K1 = 42.78" -> "AL = 23.68"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.68" -> "Classe = 2"
+	"AL = 23.72"
+	"K1 = 42.78" -> "AL = 23.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.72" -> "Classe = 2"
+	"AL = 23.91"
+	"K1 = 42.78" -> "AL = 23.91"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.91" -> "Classe = 2"
+	"AL = 24.16"
+	"K1 = 42.78" -> "AL = 24.16"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.16" -> "Classe = 2"
+	"AL = 24.25"
+	"K1 = 42.78" -> "AL = 24.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.25" -> "Classe = 2"
+	"AL = 24.28"
+	"K1 = 42.78" -> "AL = 24.28"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.28" -> "Classe = 2"
+	"AL = 24.34"
+	"K1 = 42.78" -> "AL = 24.34"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 24.34" -> "Classe = 0"
+	"AL = 24.36"
+	"K1 = 42.78" -> "AL = 24.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.36" -> "Classe = 2"
+	"AL = 24.38"
+	"K1 = 42.78" -> "AL = 24.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.38" -> "Classe = 2"
+	"AL = 24.63"
+	"K1 = 42.78" -> "AL = 24.63"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.63" -> "Classe = 2"
+	"AL = 24.89"
+	"K1 = 42.78" -> "AL = 24.89"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.89" -> "Classe = 2"
+	"AL = 24.98"
+	"K1 = 42.78" -> "AL = 24.98"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.98" -> "Classe = 2"
+	"AL = 25.13"
+	"K1 = 42.78" -> "AL = 25.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.13" -> "Classe = 2"
+	"AL = 26.51"
+	"K1 = 42.78" -> "AL = 26.51"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 26.51" -> "Classe = 0"
+	"AL = 27.17"
+	"K1 = 42.78" -> "AL = 27.17"
+	"Classe = 0" [label="Classe = 0"]
+	"AL = 27.17" -> "Classe = 0"
+	"K1 = 42.83"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 42.83" -> "Classe = 2"
+	"K1 = 42.88"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 42.88" -> "Classe = 2"
+	"K1 = 42.94"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 42.94" -> "Classe = 2"
+	"K1 = 42.99"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 42.99" -> "Classe = 2"
+	"K1 = 43.05"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.05" -> "Classe = 2"
+	"K1 = 43.1"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.1" -> "Classe = 2"
+	"K1 = 43.16"
+	"AL = 21.84"
+	"K1 = 43.16" -> "AL = 21.84"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.84" -> "Classe = 1"
+	"AL = 22.24"
+	"K1 = 43.16" -> "AL = 22.24"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.24" -> "Classe = 2"
+	"AL = 22.69"
+	"K1 = 43.16" -> "AL = 22.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.69" -> "Classe = 2"
+	"AL = 22.99"
+	"K1 = 43.16" -> "AL = 22.99"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.99" -> "Classe = 2"
+	"AL = 23.08"
+	"K1 = 43.16" -> "AL = 23.08"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.08" -> "Classe = 2"
+	"AL = 23.24"
+	"K1 = 43.16" -> "AL = 23.24"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.24" -> "Classe = 2"
+	"AL = 23.32"
+	"K1 = 43.16" -> "AL = 23.32"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.32" -> "Classe = 2"
+	"AL = 23.33"
+	"K1 = 43.16" -> "AL = 23.33"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.33" -> "Classe = 2"
+	"AL = 23.36"
+	"K1 = 43.16" -> "AL = 23.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.36" -> "Classe = 2"
+	"AL = 23.39"
+	"K1 = 43.16" -> "AL = 23.39"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.39" -> "Classe = 2"
+	"AL = 23.73"
+	"K1 = 43.16" -> "AL = 23.73"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.73" -> "Classe = 2"
+	"AL = 23.77"
+	"K1 = 43.16" -> "AL = 23.77"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.77" -> "Classe = 2"
+	"AL = 23.81"
+	"K1 = 43.16" -> "AL = 23.81"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.81" -> "Classe = 2"
+	"AL = 23.95"
+	"K1 = 43.16" -> "AL = 23.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.95" -> "Classe = 2"
+	"AL = 24.41"
+	"K1 = 43.16" -> "AL = 24.41"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.41" -> "Classe = 2"
+	"AL = 24.42"
+	"K1 = 43.16" -> "AL = 24.42"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.42" -> "Classe = 2"
+	"AL = 24.83"
+	"K1 = 43.16" -> "AL = 24.83"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.83" -> "Classe = 2"
+	"AL = 27.6"
+	"K1 = 43.16" -> "AL = 27.6"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 27.6" -> "Classe = 2"
+	"K1 = 43.21"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.21" -> "Classe = 2"
+	"K1 = 43.27"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.27" -> "Classe = 2"
+	"K1 = 43.3"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.3" -> "Classe = 2"
+	"K1 = 43.32"
+	"ACD = 2.17"
+	"K1 = 43.32" -> "ACD = 2.17"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.17" -> "Classe = 2"
+	"ACD = 2.42"
+	"K1 = 43.32" -> "ACD = 2.42"
+	"Classe = 1" [label="Classe = 1"]
+	"ACD = 2.42" -> "Classe = 1"
+	"ACD = 2.67"
+	"K1 = 43.32" -> "ACD = 2.67"
+	"Classe = 1" [label="Classe = 1"]
+	"ACD = 2.67" -> "Classe = 1"
+	"ACD = 2.7"
+	"K1 = 43.32" -> "ACD = 2.7"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.7" -> "Classe = 2"
+	"ACD = 2.79"
+	"K1 = 43.32" -> "ACD = 2.79"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.79" -> "Classe = 2"
+	"ACD = 2.86"
+	"K1 = 43.32" -> "ACD = 2.86"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.86" -> "Classe = 2"
+	"ACD = 2.96"
+	"K1 = 43.32" -> "ACD = 2.96"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.96" -> "Classe = 2"
+	"ACD = 2.99"
+	"K1 = 43.32" -> "ACD = 2.99"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 2.99" -> "Classe = 2"
+	"ACD = 3.03"
+	"K1 = 43.32" -> "ACD = 3.03"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.03" -> "Classe = 2"
+	"ACD = 3.07"
+	"K1 = 43.32" -> "ACD = 3.07"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.07" -> "Classe = 2"
+	"ACD = 3.15"
+	"K1 = 43.32" -> "ACD = 3.15"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.15" -> "Classe = 2"
+	"ACD = 3.19"
+	"K1 = 43.32" -> "ACD = 3.19"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.19" -> "Classe = 2"
+	"ACD = 3.25"
+	"K1 = 43.32" -> "ACD = 3.25"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.25" -> "Classe = 2"
+	"ACD = 3.29"
+	"K1 = 43.32" -> "ACD = 3.29"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.29" -> "Classe = 2"
+	"ACD = 3.35"
+	"K1 = 43.32" -> "ACD = 3.35"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.35" -> "Classe = 2"
+	"ACD = 3.36"
+	"K1 = 43.32" -> "ACD = 3.36"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.36" -> "Classe = 2"
+	"ACD = 3.53"
+	"K1 = 43.32" -> "ACD = 3.53"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.53" -> "Classe = 2"
+	"ACD = 3.59"
+	"K1 = 43.32" -> "ACD = 3.59"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.59" -> "Classe = 2"
+	"ACD = 3.6"
+	"K1 = 43.32" -> "ACD = 3.6"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.6" -> "Classe = 2"
+	"ACD = 3.72"
+	"K1 = 43.32" -> "ACD = 3.72"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.72" -> "Classe = 2"
+	"ACD = 3.85"
+	"K1 = 43.32" -> "ACD = 3.85"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.85" -> "Classe = 2"
+	"ACD = 3.97"
+	"K1 = 43.32" -> "ACD = 3.97"
+	"Classe = 2" [label="Classe = 2"]
+	"ACD = 3.97" -> "Classe = 2"
+	"K1 = 43.38"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.38" -> "Classe = 2"
+	"K1 = 43.44"
+	"AL = 21.93"
+	"K1 = 43.44" -> "AL = 21.93"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.93" -> "Classe = 1"
+	"AL = 22.78"
+	"K1 = 43.44" -> "AL = 22.78"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.78" -> "Classe = 2"
+	"AL = 22.82"
+	"K1 = 43.44" -> "AL = 22.82"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.82" -> "Classe = 2"
+	"AL = 22.86"
+	"K1 = 43.44" -> "AL = 22.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.86" -> "Classe = 2"
+	"AL = 23.01"
+	"K1 = 43.44" -> "AL = 23.01"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.01" -> "Classe = 2"
+	"AL = 23.03"
+	"K1 = 43.44" -> "AL = 23.03"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.03" -> "Classe = 2"
+	"AL = 23.04"
+	"K1 = 43.44" -> "AL = 23.04"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.04" -> "Classe = 2"
+	"AL = 23.09"
+	"K1 = 43.44" -> "AL = 23.09"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.09" -> "Classe = 2"
+	"AL = 23.17"
+	"K1 = 43.44" -> "AL = 23.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.17" -> "Classe = 2"
+	"AL = 23.25"
+	"K1 = 43.44" -> "AL = 23.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.25" -> "Classe = 2"
+	"AL = 23.38"
+	"K1 = 43.44" -> "AL = 23.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.38" -> "Classe = 2"
+	"AL = 23.52"
+	"K1 = 43.44" -> "AL = 23.52"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.52" -> "Classe = 2"
+	"AL = 23.59"
+	"K1 = 43.44" -> "AL = 23.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.59" -> "Classe = 2"
+	"AL = 23.73"
+	"K1 = 43.44" -> "AL = 23.73"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.73" -> "Classe = 2"
+	"AL = 23.8"
+	"K1 = 43.44" -> "AL = 23.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.8" -> "Classe = 2"
+	"AL = 23.86"
+	"K1 = 43.44" -> "AL = 23.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.86" -> "Classe = 2"
+	"AL = 23.92"
+	"K1 = 43.44" -> "AL = 23.92"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.92" -> "Classe = 2"
+	"AL = 24.08"
+	"K1 = 43.44" -> "AL = 24.08"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.08" -> "Classe = 2"
+	"AL = 24.31"
+	"K1 = 43.44" -> "AL = 24.31"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.31" -> "Classe = 2"
+	"AL = 24.45"
+	"K1 = 43.44" -> "AL = 24.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.45" -> "Classe = 2"
+	"AL = 24.87"
+	"K1 = 43.44" -> "AL = 24.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.87" -> "Classe = 2"
+	"AL = 26.13"
+	"K1 = 43.44" -> "AL = 26.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.13" -> "Classe = 2"
+	"AL = 26.18"
+	"K1 = 43.44" -> "AL = 26.18"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.18" -> "Classe = 2"
+	"AL = 26.25"
+	"K1 = 43.44" -> "AL = 26.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.25" -> "Classe = 2"
+	"K1 = 43.49"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.49" -> "Classe = 2"
+	"K1 = 43.5"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.5" -> "Classe = 2"
+	"K1 = 43.55"
+	"AL = 21.57"
+	"K1 = 43.55" -> "AL = 21.57"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.57" -> "Classe = 1"
+	"AL = 22.77"
+	"K1 = 43.55" -> "AL = 22.77"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.77" -> "Classe = 2"
+	"AL = 22.8"
+	"K1 = 43.55" -> "AL = 22.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.8" -> "Classe = 2"
+	"AL = 22.84"
+	"K1 = 43.55" -> "AL = 22.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.84" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 43.55" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.14"
+	"K1 = 43.55" -> "AL = 23.14"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.14" -> "Classe = 2"
+	"AL = 23.25"
+	"K1 = 43.55" -> "AL = 23.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.25" -> "Classe = 2"
+	"AL = 23.27"
+	"K1 = 43.55" -> "AL = 23.27"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.27" -> "Classe = 2"
+	"AL = 23.28"
+	"K1 = 43.55" -> "AL = 23.28"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.28" -> "Classe = 2"
+	"AL = 23.39"
+	"K1 = 43.55" -> "AL = 23.39"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.39" -> "Classe = 2"
+	"AL = 23.4"
+	"K1 = 43.55" -> "AL = 23.4"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.4" -> "Classe = 2"
+	"AL = 23.44"
+	"K1 = 43.55" -> "AL = 23.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.44" -> "Classe = 2"
+	"AL = 23.45"
+	"K1 = 43.55" -> "AL = 23.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.45" -> "Classe = 2"
+	"AL = 23.47"
+	"K1 = 43.55" -> "AL = 23.47"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.47" -> "Classe = 2"
+	"AL = 23.5"
+	"K1 = 43.55" -> "AL = 23.5"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.5" -> "Classe = 2"
+	"AL = 23.56"
+	"K1 = 43.55" -> "AL = 23.56"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.56" -> "Classe = 2"
+	"AL = 23.57"
+	"K1 = 43.55" -> "AL = 23.57"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.57" -> "Classe = 2"
+	"AL = 23.6"
+	"K1 = 43.55" -> "AL = 23.6"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.6" -> "Classe = 2"
+	"AL = 23.64"
+	"K1 = 43.55" -> "AL = 23.64"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.64" -> "Classe = 2"
+	"AL = 23.69"
+	"K1 = 43.55" -> "AL = 23.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.69" -> "Classe = 2"
+	"AL = 23.83"
+	"K1 = 43.55" -> "AL = 23.83"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.83" -> "Classe = 2"
+	"AL = 23.86"
+	"K1 = 43.55" -> "AL = 23.86"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.86" -> "Classe = 2"
+	"AL = 23.95"
+	"K1 = 43.55" -> "AL = 23.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.95" -> "Classe = 2"
+	"AL = 23.98"
+	"K1 = 43.55" -> "AL = 23.98"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.98" -> "Classe = 2"
+	"AL = 24.41"
+	"K1 = 43.55" -> "AL = 24.41"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.41" -> "Classe = 2"
+	"K1 = 43.6"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.6" -> "Classe = 2"
+	"K1 = 43.66"
+	"AL = 21.81"
+	"K1 = 43.66" -> "AL = 21.81"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 21.81" -> "Classe = 2"
+	"AL = 22.34"
+	"K1 = 43.66" -> "AL = 22.34"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.34" -> "Classe = 2"
+	"AL = 22.36"
+	"K1 = 43.66" -> "AL = 22.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.36" -> "Classe = 2"
+	"AL = 22.41"
+	"K1 = 43.66" -> "AL = 22.41"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.41" -> "Classe = 1"
+	"AL = 22.48"
+	"K1 = 43.66" -> "AL = 22.48"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.48" -> "Classe = 2"
+	"AL = 22.72"
+	"K1 = 43.66" -> "AL = 22.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.72" -> "Classe = 2"
+	"AL = 23.05"
+	"K1 = 43.66" -> "AL = 23.05"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.05" -> "Classe = 2"
+	"AL = 23.07"
+	"K1 = 43.66" -> "AL = 23.07"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.07" -> "Classe = 2"
+	"AL = 23.09"
+	"K1 = 43.66" -> "AL = 23.09"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.09" -> "Classe = 2"
+	"AL = 23.15"
+	"K1 = 43.66" -> "AL = 23.15"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.15" -> "Classe = 2"
+	"AL = 23.17"
+	"K1 = 43.66" -> "AL = 23.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.17" -> "Classe = 2"
+	"AL = 23.45"
+	"K1 = 43.66" -> "AL = 23.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.45" -> "Classe = 2"
+	"AL = 23.47"
+	"K1 = 43.66" -> "AL = 23.47"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.47" -> "Classe = 2"
+	"AL = 23.72"
+	"K1 = 43.66" -> "AL = 23.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.72" -> "Classe = 2"
+	"AL = 25.37"
+	"K1 = 43.66" -> "AL = 25.37"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.37" -> "Classe = 2"
+	"K1 = 43.72"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.72" -> "Classe = 2"
+	"K1 = 43.77"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.77" -> "Classe = 2"
+	"K1 = 43.83"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.83" -> "Classe = 2"
+	"K1 = 43.89"
+	"AL = 22.4"
+	"K1 = 43.89" -> "AL = 22.4"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.4" -> "Classe = 2"
+	"AL = 22.42"
+	"K1 = 43.89" -> "AL = 22.42"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.42" -> "Classe = 2"
+	"AL = 22.71"
+	"K1 = 43.89" -> "AL = 22.71"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.71" -> "Classe = 2"
+	"AL = 22.76"
+	"K1 = 43.89" -> "AL = 22.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.76" -> "Classe = 2"
+	"AL = 22.87"
+	"K1 = 43.89" -> "AL = 22.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.87" -> "Classe = 2"
+	"AL = 22.88"
+	"K1 = 43.89" -> "AL = 22.88"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.88" -> "Classe = 2"
+	"AL = 22.92"
+	"K1 = 43.89" -> "AL = 22.92"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.92" -> "Classe = 2"
+	"AL = 23.02"
+	"K1 = 43.89" -> "AL = 23.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.02" -> "Classe = 2"
+	"AL = 23.06"
+	"K1 = 43.89" -> "AL = 23.06"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.06" -> "Classe = 2"
+	"AL = 23.09"
+	"K1 = 43.89" -> "AL = 23.09"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.09" -> "Classe = 2"
+	"AL = 23.11"
+	"K1 = 43.89" -> "AL = 23.11"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.11" -> "Classe = 2"
+	"AL = 23.21"
+	"K1 = 43.89" -> "AL = 23.21"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.21" -> "Classe = 2"
+	"AL = 23.22"
+	"K1 = 43.89" -> "AL = 23.22"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.22" -> "Classe = 2"
+	"AL = 23.31"
+	"K1 = 43.89" -> "AL = 23.31"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.31" -> "Classe = 2"
+	"AL = 23.33"
+	"K1 = 43.89" -> "AL = 23.33"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.33" -> "Classe = 1"
+	"AL = 23.49"
+	"K1 = 43.89" -> "AL = 23.49"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.49" -> "Classe = 2"
+	"AL = 23.52"
+	"K1 = 43.89" -> "AL = 23.52"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.52" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 43.89" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 23.94"
+	"K1 = 43.89" -> "AL = 23.94"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.94" -> "Classe = 2"
+	"AL = 23.95"
+	"K1 = 43.89" -> "AL = 23.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.95" -> "Classe = 2"
+	"AL = 23.97"
+	"K1 = 43.89" -> "AL = 23.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.97" -> "Classe = 2"
+	"AL = 24.11"
+	"K1 = 43.89" -> "AL = 24.11"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.11" -> "Classe = 2"
+	"AL = 24.13"
+	"K1 = 43.89" -> "AL = 24.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.13" -> "Classe = 2"
+	"AL = 24.17"
+	"K1 = 43.89" -> "AL = 24.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.17" -> "Classe = 2"
+	"AL = 24.26"
+	"K1 = 43.89" -> "AL = 24.26"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.26" -> "Classe = 2"
+	"AL = 24.36"
+	"K1 = 43.89" -> "AL = 24.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.36" -> "Classe = 2"
+	"AL = 24.37"
+	"K1 = 43.89" -> "AL = 24.37"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.37" -> "Classe = 2"
+	"AL = 24.46"
+	"K1 = 43.89" -> "AL = 24.46"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.46" -> "Classe = 2"
+	"AL = 24.63"
+	"K1 = 43.89" -> "AL = 24.63"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.63" -> "Classe = 2"
+	"AL = 25.01"
+	"K1 = 43.89" -> "AL = 25.01"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.01" -> "Classe = 2"
+	"K1 = 43.9"
+	"Classe = 2" [label="Classe = 2"]
+	"K1 = 43.9" -> "Classe = 2"
+	"K1 = 43.95"
+	"AL = 21.9"
+	"K1 = 43.95" -> "AL = 21.9"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.9" -> "Classe = 1"
+	"AL = 22.46"
+	"K1 = 43.95" -> "AL = 22.46"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.46" -> "Classe = 2"
+	"AL = 22.71"
+	"K1 = 43.95" -> "AL = 22.71"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.71" -> "Classe = 2"
+	"AL = 22.8"
+	"K1 = 43.95" -> "AL = 22.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.8" -> "Classe = 2"
+	"AL = 23.02"
+	"K1 = 43.95" -> "AL = 23.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.02" -> "Classe = 2"
+	"AL = 23.13"
+	"K1 = 43.95" -> "AL = 23.13"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.13" -> "Classe = 1"
+	"AL = 23.3"
+	"K1 = 43.95" -> "AL = 23.3"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.3" -> "Classe = 2"
+	"AL = 23.33"
+	"K1 = 43.95" -> "AL = 23.33"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.33" -> "Classe = 2"
+	"AL = 23.37"
+	"K1 = 43.95" -> "AL = 23.37"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.37" -> "Classe = 2"
+	"AL = 23.42"
+	"K1 = 43.95" -> "AL = 23.42"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.42" -> "Classe = 2"
+	"AL = 23.54"
+	"K1 = 43.95" -> "AL = 23.54"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.54" -> "Classe = 2"
+	"AL = 23.61"
+	"K1 = 43.95" -> "AL = 23.61"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.61" -> "Classe = 1"
+	"AL = 23.62"
+	"K1 = 43.95" -> "AL = 23.62"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.62" -> "Classe = 2"
+	"AL = 23.72"
+	"K1 = 43.95" -> "AL = 23.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.72" -> "Classe = 2"
+	"AL = 24.54"
+	"K1 = 43.95" -> "AL = 24.54"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.54" -> "Classe = 2"
+	"AL = 24.81"
+	"K1 = 43.95" -> "AL = 24.81"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.81" -> "Classe = 2"
+	"AL = 24.88"
+	"K1 = 43.95" -> "AL = 24.88"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.88" -> "Classe = 2"
+	"K1 = 44.0"
+	"AL = 22.35"
+	"K1 = 44.0" -> "AL = 22.35"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.35" -> "Classe = 2"
+	"AL = 22.36"
+	"K1 = 44.0" -> "AL = 22.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.36" -> "Classe = 2"
+	"AL = 22.37"
+	"K1 = 44.0" -> "AL = 22.37"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.37" -> "Classe = 1"
+	"AL = 22.66"
+	"K1 = 44.0" -> "AL = 22.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.66" -> "Classe = 2"
+	"AL = 22.69"
+	"K1 = 44.0" -> "AL = 22.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.69" -> "Classe = 2"
+	"AL = 22.75"
+	"K1 = 44.0" -> "AL = 22.75"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.75" -> "Classe = 2"
+	"AL = 22.76"
+	"K1 = 44.0" -> "AL = 22.76"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.76" -> "Classe = 1"
+	"AL = 22.85"
+	"K1 = 44.0" -> "AL = 22.85"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.85" -> "Classe = 2"
+	"AL = 22.99"
+	"K1 = 44.0" -> "AL = 22.99"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.99" -> "Classe = 2"
+	"AL = 23.01"
+	"K1 = 44.0" -> "AL = 23.01"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.01" -> "Classe = 2"
+	"AL = 23.1"
+	"K1 = 44.0" -> "AL = 23.1"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.1" -> "Classe = 2"
+	"AL = 23.25"
+	"K1 = 44.0" -> "AL = 23.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.25" -> "Classe = 2"
+	"AL = 23.35"
+	"K1 = 44.0" -> "AL = 23.35"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.35" -> "Classe = 2"
+	"AL = 23.49"
+	"K1 = 44.0" -> "AL = 23.49"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.49" -> "Classe = 2"
+	"AL = 23.61"
+	"K1 = 44.0" -> "AL = 23.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.61" -> "Classe = 2"
+	"AL = 23.67"
+	"K1 = 44.0" -> "AL = 23.67"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.67" -> "Classe = 2"
+	"AL = 23.77"
+	"K1 = 44.0" -> "AL = 23.77"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.77" -> "Classe = 2"
+	"AL = 23.78"
+	"K1 = 44.0" -> "AL = 23.78"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.78" -> "Classe = 2"
+	"AL = 23.97"
+	"K1 = 44.0" -> "AL = 23.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.97" -> "Classe = 2"
+	"AL = 24.01"
+	"K1 = 44.0" -> "AL = 24.01"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.01" -> "Classe = 2"
+	"AL = 24.13"
+	"K1 = 44.0" -> "AL = 24.13"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.13" -> "Classe = 2"
+	"AL = 24.94"
+	"K1 = 44.0" -> "AL = 24.94"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.94" -> "Classe = 2"
+	"K1 = 44.06"
+	"AL = 20.15"
+	"K1 = 44.06" -> "AL = 20.15"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 20.15" -> "Classe = 1"
+	"AL = 22.36"
+	"K1 = 44.06" -> "AL = 22.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.36" -> "Classe = 2"
+	"AL = 22.45"
+	"K1 = 44.06" -> "AL = 22.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.45" -> "Classe = 2"
+	"AL = 22.48"
+	"K1 = 44.06" -> "AL = 22.48"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.48" -> "Classe = 2"
+	"AL = 22.66"
+	"K1 = 44.06" -> "AL = 22.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.66" -> "Classe = 2"
+	"AL = 22.76"
+	"K1 = 44.06" -> "AL = 22.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.76" -> "Classe = 2"
+	"AL = 22.83"
+	"K1 = 44.06" -> "AL = 22.83"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.83" -> "Classe = 2"
+	"AL = 22.86"
+	"K1 = 44.06" -> "AL = 22.86"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.86" -> "Classe = 1"
+	"AL = 22.89"
+	"K1 = 44.06" -> "AL = 22.89"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.89" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 44.06" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.14"
+	"K1 = 44.06" -> "AL = 23.14"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.14" -> "Classe = 2"
+	"AL = 23.17"
+	"K1 = 44.06" -> "AL = 23.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.17" -> "Classe = 2"
+	"AL = 23.29"
+	"K1 = 44.06" -> "AL = 23.29"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.29" -> "Classe = 1"
+	"AL = 23.37"
+	"K1 = 44.06" -> "AL = 23.37"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.37" -> "Classe = 2"
+	"AL = 23.44"
+	"K1 = 44.06" -> "AL = 23.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.44" -> "Classe = 2"
+	"AL = 23.63"
+	"K1 = 44.06" -> "AL = 23.63"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.63" -> "Classe = 2"
+	"AL = 23.9"
+	"K1 = 44.06" -> "AL = 23.9"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.9" -> "Classe = 2"
+	"AL = 24.17"
+	"K1 = 44.06" -> "AL = 24.17"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.17" -> "Classe = 2"
+	"AL = 24.18"
+	"K1 = 44.06" -> "AL = 24.18"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.18" -> "Classe = 2"
+	"AL = 24.51"
+	"K1 = 44.06" -> "AL = 24.51"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.51" -> "Classe = 2"
+	"AL = 25.6"
+	"K1 = 44.06" -> "AL = 25.6"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.6" -> "Classe = 2"
+	"K1 = 44.12"
+	"AL = 21.74"
+	"K1 = 44.12" -> "AL = 21.74"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.74" -> "Classe = 1"
+	"AL = 22.23"
+	"K1 = 44.12" -> "AL = 22.23"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.23" -> "Classe = 1"
+	"AL = 22.4"
+	"K1 = 44.12" -> "AL = 22.4"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.4" -> "Classe = 2"
+	"AL = 22.41"
+	"K1 = 44.12" -> "AL = 22.41"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.41" -> "Classe = 1"
+	"AL = 22.53"
+	"K1 = 44.12" -> "AL = 22.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.53" -> "Classe = 2"
+	"AL = 22.61"
+	"K1 = 44.12" -> "AL = 22.61"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.61" -> "Classe = 2"
+	"AL = 22.69"
+	"K1 = 44.12" -> "AL = 22.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.69" -> "Classe = 2"
+	"AL = 22.72"
+	"K1 = 44.12" -> "AL = 22.72"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.72" -> "Classe = 2"
+	"AL = 22.81"
+	"K1 = 44.12" -> "AL = 22.81"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.81" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 44.12" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.07"
+	"K1 = 44.12" -> "AL = 23.07"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.07" -> "Classe = 2"
+	"AL = 23.2"
+	"K1 = 44.12" -> "AL = 23.2"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.2" -> "Classe = 2"
+	"AL = 23.34"
+	"K1 = 44.12" -> "AL = 23.34"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.34" -> "Classe = 2"
+	"AL = 23.36"
+	"K1 = 44.12" -> "AL = 23.36"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.36" -> "Classe = 2"
+	"AL = 23.45"
+	"K1 = 44.12" -> "AL = 23.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.45" -> "Classe = 2"
+	"AL = 23.92"
+	"K1 = 44.12" -> "AL = 23.92"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.92" -> "Classe = 2"
+	"AL = 24.08"
+	"K1 = 44.12" -> "AL = 24.08"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.08" -> "Classe = 2"
+	"AL = 24.11"
+	"K1 = 44.12" -> "AL = 24.11"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.11" -> "Classe = 2"
+	"AL = 24.12"
+	"K1 = 44.12" -> "AL = 24.12"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.12" -> "Classe = 2"
+	"AL = 25.87"
+	"K1 = 44.12" -> "AL = 25.87"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.87" -> "Classe = 2"
+	"K1 = 44.18"
+	"AL = 21.69"
+	"K1 = 44.18" -> "AL = 21.69"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.69" -> "Classe = 1"
+	"AL = 22.68"
+	"K1 = 44.18" -> "AL = 22.68"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.68" -> "Classe = 2"
+	"AL = 22.76"
+	"K1 = 44.18" -> "AL = 22.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.76" -> "Classe = 2"
+	"AL = 22.79"
+	"K1 = 44.18" -> "AL = 22.79"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.79" -> "Classe = 2"
+	"AL = 22.83"
+	"K1 = 44.18" -> "AL = 22.83"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.83" -> "Classe = 1"
+	"AL = 22.84"
+	"K1 = 44.18" -> "AL = 22.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.84" -> "Classe = 2"
+	"AL = 22.85"
+	"K1 = 44.18" -> "AL = 22.85"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.85" -> "Classe = 2"
+	"AL = 22.93"
+	"K1 = 44.18" -> "AL = 22.93"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.93" -> "Classe = 2"
+	"AL = 23.04"
+	"K1 = 44.18" -> "AL = 23.04"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.04" -> "Classe = 2"
+	"AL = 23.16"
+	"K1 = 44.18" -> "AL = 23.16"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.16" -> "Classe = 2"
+	"AL = 23.25"
+	"K1 = 44.18" -> "AL = 23.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.25" -> "Classe = 2"
+	"AL = 23.38"
+	"K1 = 44.18" -> "AL = 23.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.38" -> "Classe = 2"
+	"AL = 23.39"
+	"K1 = 44.18" -> "AL = 23.39"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.39" -> "Classe = 2"
+	"AL = 23.6"
+	"K1 = 44.18" -> "AL = 23.6"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.6" -> "Classe = 2"
+	"AL = 23.84"
+	"K1 = 44.18" -> "AL = 23.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.84" -> "Classe = 2"
+	"AL = 23.88"
+	"K1 = 44.18" -> "AL = 23.88"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.88" -> "Classe = 2"
+	"AL = 23.92"
+	"K1 = 44.18" -> "AL = 23.92"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.92" -> "Classe = 2"
+	"AL = 25.16"
+	"K1 = 44.18" -> "AL = 25.16"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.16" -> "Classe = 2"
+	"K1 = 44.23"
+	"AL = 21.3"
+	"K1 = 44.23" -> "AL = 21.3"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.3" -> "Classe = 1"
+	"AL = 21.43"
+	"K1 = 44.23" -> "AL = 21.43"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.43" -> "Classe = 1"
+	"AL = 22.56"
+	"K1 = 44.23" -> "AL = 22.56"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.56" -> "Classe = 2"
+	"AL = 22.85"
+	"K1 = 44.23" -> "AL = 22.85"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.85" -> "Classe = 2"
+	"AL = 22.95"
+	"K1 = 44.23" -> "AL = 22.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.95" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 44.23" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.01"
+	"K1 = 44.23" -> "AL = 23.01"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.01" -> "Classe = 1"
+	"AL = 23.14"
+	"K1 = 44.23" -> "AL = 23.14"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.14" -> "Classe = 2"
+	"AL = 23.28"
+	"K1 = 44.23" -> "AL = 23.28"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.28" -> "Classe = 2"
+	"AL = 23.4"
+	"K1 = 44.23" -> "AL = 23.4"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.4" -> "Classe = 2"
+	"AL = 24.21"
+	"K1 = 44.23" -> "AL = 24.21"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.21" -> "Classe = 2"
+	"AL = 24.69"
+	"K1 = 44.23" -> "AL = 24.69"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.69" -> "Classe = 2"
+	"AL = 24.97"
+	"K1 = 44.23" -> "AL = 24.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.97" -> "Classe = 2"
+	"AL = 26.34"
+	"K1 = 44.23" -> "AL = 26.34"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.34" -> "Classe = 2"
+	"K1 = 44.29"
+	"AL = 21.58"
+	"K1 = 44.29" -> "AL = 21.58"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.58" -> "Classe = 1"
+	"AL = 21.97"
+	"K1 = 44.29" -> "AL = 21.97"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.97" -> "Classe = 1"
+	"AL = 22.67"
+	"K1 = 44.29" -> "AL = 22.67"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.67" -> "Classe = 2"
+	"AL = 22.7"
+	"K1 = 44.29" -> "AL = 22.7"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.7" -> "Classe = 1"
+	"AL = 22.93"
+	"K1 = 44.29" -> "AL = 22.93"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.93" -> "Classe = 2"
+	"AL = 23.16"
+	"K1 = 44.29" -> "AL = 23.16"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.16" -> "Classe = 2"
+	"AL = 23.45"
+	"K1 = 44.29" -> "AL = 23.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.45" -> "Classe = 2"
+	"AL = 23.56"
+	"K1 = 44.29" -> "AL = 23.56"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.56" -> "Classe = 1"
+	"AL = 23.84"
+	"K1 = 44.29" -> "AL = 23.84"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.84" -> "Classe = 2"
+	"AL = 24.19"
+	"K1 = 44.29" -> "AL = 24.19"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.19" -> "Classe = 2"
+	"AL = 24.24"
+	"K1 = 44.29" -> "AL = 24.24"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 24.24" -> "Classe = 1"
+	"AL = 26.45"
+	"K1 = 44.29" -> "AL = 26.45"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.45" -> "Classe = 2"
+	"K1 = 44.35"
+	"AL = 21.81"
+	"K1 = 44.35" -> "AL = 21.81"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.81" -> "Classe = 1"
+	"AL = 21.9"
+	"K1 = 44.35" -> "AL = 21.9"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.9" -> "Classe = 1"
+	"AL = 22.0"
+	"K1 = 44.35" -> "AL = 22.0"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.0" -> "Classe = 1"
+	"AL = 22.32"
+	"K1 = 44.35" -> "AL = 22.32"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.32" -> "Classe = 1"
+	"AL = 22.41"
+	"K1 = 44.35" -> "AL = 22.41"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.41" -> "Classe = 1"
+	"AL = 22.43"
+	"K1 = 44.35" -> "AL = 22.43"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.43" -> "Classe = 1"
+	"AL = 22.44"
+	"K1 = 44.35" -> "AL = 22.44"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.44" -> "Classe = 2"
+	"AL = 22.66"
+	"K1 = 44.35" -> "AL = 22.66"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.66" -> "Classe = 1"
+	"AL = 22.76"
+	"K1 = 44.35" -> "AL = 22.76"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.76" -> "Classe = 2"
+	"AL = 22.87"
+	"K1 = 44.35" -> "AL = 22.87"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.87" -> "Classe = 1"
+	"AL = 22.88"
+	"K1 = 44.35" -> "AL = 22.88"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.88" -> "Classe = 1"
+	"AL = 22.93"
+	"K1 = 44.35" -> "AL = 22.93"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.93" -> "Classe = 2"
+	"AL = 23.0"
+	"K1 = 44.35" -> "AL = 23.0"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.0" -> "Classe = 2"
+	"AL = 23.29"
+	"K1 = 44.35" -> "AL = 23.29"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.29" -> "Classe = 2"
+	"AL = 23.31"
+	"K1 = 44.35" -> "AL = 23.31"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.31" -> "Classe = 2"
+	"AL = 23.68"
+	"K1 = 44.35" -> "AL = 23.68"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.68" -> "Classe = 2"
+	"AL = 23.8"
+	"K1 = 44.35" -> "AL = 23.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.8" -> "Classe = 2"
+	"K1 = 44.41"
+	"AL = 22.32"
+	"K1 = 44.41" -> "AL = 22.32"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.32" -> "Classe = 1"
+	"AL = 22.51"
+	"K1 = 44.41" -> "AL = 22.51"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.51" -> "Classe = 1"
+	"AL = 22.62"
+	"K1 = 44.41" -> "AL = 22.62"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.62" -> "Classe = 1"
+	"AL = 22.88"
+	"K1 = 44.41" -> "AL = 22.88"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.88" -> "Classe = 1"
+	"AL = 23.25"
+	"K1 = 44.41" -> "AL = 23.25"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.25" -> "Classe = 2"
+	"AL = 23.26"
+	"K1 = 44.41" -> "AL = 23.26"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.26" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 44.41" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 23.59"
+	"K1 = 44.41" -> "AL = 23.59"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.59" -> "Classe = 2"
+	"K1 = 44.47"
+	"AL = 22.09"
+	"K1 = 44.47" -> "AL = 22.09"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.09" -> "Classe = 1"
+	"AL = 22.13"
+	"K1 = 44.47" -> "AL = 22.13"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.13" -> "Classe = 1"
+	"AL = 22.18"
+	"K1 = 44.47" -> "AL = 22.18"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.18" -> "Classe = 1"
+	"AL = 22.22"
+	"K1 = 44.47" -> "AL = 22.22"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.22" -> "Classe = 1"
+	"AL = 22.29"
+	"K1 = 44.47" -> "AL = 22.29"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.29" -> "Classe = 1"
+	"AL = 22.38"
+	"K1 = 44.47" -> "AL = 22.38"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.38" -> "Classe = 1"
+	"AL = 22.46"
+	"K1 = 44.47" -> "AL = 22.46"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.46" -> "Classe = 1"
+	"AL = 22.49"
+	"K1 = 44.47" -> "AL = 22.49"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.49" -> "Classe = 1"
+	"AL = 22.65"
+	"K1 = 44.47" -> "AL = 22.65"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.65" -> "Classe = 1"
+	"AL = 22.83"
+	"K1 = 44.47" -> "AL = 22.83"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.83" -> "Classe = 2"
+	"AL = 22.99"
+	"K1 = 44.47" -> "AL = 22.99"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.99" -> "Classe = 1"
+	"AL = 23.01"
+	"K1 = 44.47" -> "AL = 23.01"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.01" -> "Classe = 1"
+	"AL = 23.03"
+	"K1 = 44.47" -> "AL = 23.03"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.03" -> "Classe = 2"
+	"AL = 23.06"
+	"K1 = 44.47" -> "AL = 23.06"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.06" -> "Classe = 1"
+	"AL = 23.22"
+	"K1 = 44.47" -> "AL = 23.22"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.22" -> "Classe = 1"
+	"AL = 23.34"
+	"K1 = 44.47" -> "AL = 23.34"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.34" -> "Classe = 2"
+	"AL = 23.38"
+	"K1 = 44.47" -> "AL = 23.38"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.38" -> "Classe = 2"
+	"AL = 23.53"
+	"K1 = 44.47" -> "AL = 23.53"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.53" -> "Classe = 2"
+	"AL = 23.58"
+	"K1 = 44.47" -> "AL = 23.58"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.58" -> "Classe = 1"
+	"AL = 23.97"
+	"K1 = 44.47" -> "AL = 23.97"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.97" -> "Classe = 2"
+	"AL = 24.23"
+	"K1 = 44.47" -> "AL = 24.23"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.23" -> "Classe = 2"
+	"AL = 24.5"
+	"K1 = 44.47" -> "AL = 24.5"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.5" -> "Classe = 2"
+	"K1 = 44.53"
+	"AL = 21.36"
+	"K1 = 44.53" -> "AL = 21.36"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.36" -> "Classe = 1"
+	"AL = 21.77"
+	"K1 = 44.53" -> "AL = 21.77"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.77" -> "Classe = 1"
+	"AL = 21.83"
+	"K1 = 44.53" -> "AL = 21.83"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.83" -> "Classe = 1"
+	"AL = 21.87"
+	"K1 = 44.53" -> "AL = 21.87"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.87" -> "Classe = 1"
+	"AL = 22.05"
+	"K1 = 44.53" -> "AL = 22.05"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.05" -> "Classe = 1"
+	"AL = 22.49"
+	"K1 = 44.53" -> "AL = 22.49"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.49" -> "Classe = 1"
+	"AL = 22.5"
+	"K1 = 44.53" -> "AL = 22.5"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.5" -> "Classe = 1"
+	"AL = 22.56"
+	"K1 = 44.53" -> "AL = 22.56"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.56" -> "Classe = 2"
+	"AL = 22.59"
+	"K1 = 44.53" -> "AL = 22.59"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.59" -> "Classe = 1"
+	"AL = 22.65"
+	"K1 = 44.53" -> "AL = 22.65"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.65" -> "Classe = 1"
+	"AL = 22.78"
+	"K1 = 44.53" -> "AL = 22.78"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.78" -> "Classe = 1"
+	"AL = 22.8"
+	"K1 = 44.53" -> "AL = 22.8"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 22.8" -> "Classe = 2"
+	"AL = 22.85"
+	"K1 = 44.53" -> "AL = 22.85"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.85" -> "Classe = 1"
+	"AL = 22.99"
+	"K1 = 44.53" -> "AL = 22.99"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.99" -> "Classe = 1"
+	"AL = 23.02"
+	"K1 = 44.53" -> "AL = 23.02"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.02" -> "Classe = 2"
+	"AL = 23.19"
+	"K1 = 44.53" -> "AL = 23.19"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.19" -> "Classe = 2"
+	"AL = 23.55"
+	"K1 = 44.53" -> "AL = 23.55"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.55" -> "Classe = 2"
+	"AL = 23.66"
+	"K1 = 44.53" -> "AL = 23.66"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.66" -> "Classe = 2"
+	"AL = 23.67"
+	"K1 = 44.53" -> "AL = 23.67"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.67" -> "Classe = 1"
+	"AL = 23.95"
+	"K1 = 44.53" -> "AL = 23.95"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.95" -> "Classe = 2"
+	"AL = 24.57"
+	"K1 = 44.53" -> "AL = 24.57"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.57" -> "Classe = 2"
+	"AL = 24.85"
+	"K1 = 44.53" -> "AL = 24.85"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.85" -> "Classe = 2"
+	"AL = 24.96"
+	"K1 = 44.53" -> "AL = 24.96"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 24.96" -> "Classe = 1"
+	"AL = 25.21"
+	"K1 = 44.53" -> "AL = 25.21"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.21" -> "Classe = 2"
+	"K1 = 44.58"
+	"AL = 21.83"
+	"K1 = 44.58" -> "AL = 21.83"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.83" -> "Classe = 1"
+	"AL = 22.17"
+	"K1 = 44.58" -> "AL = 22.17"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.17" -> "Classe = 1"
+	"AL = 22.48"
+	"K1 = 44.58" -> "AL = 22.48"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.48" -> "Classe = 1"
+	"AL = 22.49"
+	"K1 = 44.58" -> "AL = 22.49"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.49" -> "Classe = 1"
+	"AL = 22.52"
+	"K1 = 44.58" -> "AL = 22.52"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.52" -> "Classe = 1"
+	"AL = 22.61"
+	"K1 = 44.58" -> "AL = 22.61"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.61" -> "Classe = 1"
+	"AL = 22.74"
+	"K1 = 44.58" -> "AL = 22.74"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.74" -> "Classe = 1"
+	"AL = 22.87"
+	"K1 = 44.58" -> "AL = 22.87"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.87" -> "Classe = 1"
+	"AL = 22.99"
+	"K1 = 44.58" -> "AL = 22.99"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.99" -> "Classe = 1"
+	"AL = 23.09"
+	"K1 = 44.58" -> "AL = 23.09"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.09" -> "Classe = 1"
+	"AL = 23.24"
+	"K1 = 44.58" -> "AL = 23.24"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.24" -> "Classe = 1"
+	"AL = 23.39"
+	"K1 = 44.58" -> "AL = 23.39"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.39" -> "Classe = 2"
+	"AL = 23.43"
+	"K1 = 44.58" -> "AL = 23.43"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 23.43" -> "Classe = 2"
+	"AL = 25.85"
+	"K1 = 44.58" -> "AL = 25.85"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 25.85" -> "Classe = 2"
+	"K1 = 44.64"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 44.64" -> "Classe = 1"
+	"K1 = 44.7"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 44.7" -> "Classe = 1"
+	"K1 = 44.76"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 44.76" -> "Classe = 1"
+	"K1 = 44.82"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 44.82" -> "Classe = 1"
+	"K1 = 44.88"
+	"AL = 21.56"
+	"K1 = 44.88" -> "AL = 21.56"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.56" -> "Classe = 1"
+	"AL = 21.95"
+	"K1 = 44.88" -> "AL = 21.95"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.95" -> "Classe = 1"
+	"AL = 22.27"
+	"K1 = 44.88" -> "AL = 22.27"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.27" -> "Classe = 1"
+	"AL = 22.38"
+	"K1 = 44.88" -> "AL = 22.38"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.38" -> "Classe = 1"
+	"AL = 22.45"
+	"K1 = 44.88" -> "AL = 22.45"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.45" -> "Classe = 1"
+	"AL = 22.46"
+	"K1 = 44.88" -> "AL = 22.46"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.46" -> "Classe = 1"
+	"AL = 22.47"
+	"K1 = 44.88" -> "AL = 22.47"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.47" -> "Classe = 1"
+	"AL = 22.56"
+	"K1 = 44.88" -> "AL = 22.56"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.56" -> "Classe = 1"
+	"AL = 22.72"
+	"K1 = 44.88" -> "AL = 22.72"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.72" -> "Classe = 1"
+	"AL = 22.78"
+	"K1 = 44.88" -> "AL = 22.78"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.78" -> "Classe = 1"
+	"AL = 22.86"
+	"K1 = 44.88" -> "AL = 22.86"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.86" -> "Classe = 1"
+	"AL = 22.93"
+	"K1 = 44.88" -> "AL = 22.93"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.93" -> "Classe = 1"
+	"AL = 22.96"
+	"K1 = 44.88" -> "AL = 22.96"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.96" -> "Classe = 1"
+	"AL = 23.27"
+	"K1 = 44.88" -> "AL = 23.27"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.27" -> "Classe = 1"
+	"AL = 23.3"
+	"K1 = 44.88" -> "AL = 23.3"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.3" -> "Classe = 1"
+	"AL = 23.91"
+	"K1 = 44.88" -> "AL = 23.91"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.91" -> "Classe = 1"
+	"AL = 24.25"
+	"K1 = 44.88" -> "AL = 24.25"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 24.25" -> "Classe = 1"
+	"AL = 24.67"
+	"K1 = 44.88" -> "AL = 24.67"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 24.67" -> "Classe = 2"
+	"K1 = 44.94"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 44.94" -> "Classe = 1"
+	"K1 = 45.0"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.0" -> "Classe = 1"
+	"K1 = 45.06"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.06" -> "Classe = 1"
+	"K1 = 45.12"
+	"AL = 21.68"
+	"K1 = 45.12" -> "AL = 21.68"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.68" -> "Classe = 1"
+	"AL = 22.13"
+	"K1 = 45.12" -> "AL = 22.13"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.13" -> "Classe = 1"
+	"AL = 22.26"
+	"K1 = 45.12" -> "AL = 22.26"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.26" -> "Classe = 1"
+	"AL = 22.4"
+	"K1 = 45.12" -> "AL = 22.4"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.4" -> "Classe = 1"
+	"AL = 22.5"
+	"K1 = 45.12" -> "AL = 22.5"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.5" -> "Classe = 1"
+	"AL = 22.56"
+	"K1 = 45.12" -> "AL = 22.56"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.56" -> "Classe = 1"
+	"AL = 22.57"
+	"K1 = 45.12" -> "AL = 22.57"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.57" -> "Classe = 1"
+	"AL = 22.6"
+	"K1 = 45.12" -> "AL = 22.6"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.6" -> "Classe = 1"
+	"AL = 22.62"
+	"K1 = 45.12" -> "AL = 22.62"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.62" -> "Classe = 1"
+	"AL = 23.01"
+	"K1 = 45.12" -> "AL = 23.01"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.01" -> "Classe = 1"
+	"AL = 23.05"
+	"K1 = 45.12" -> "AL = 23.05"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.05" -> "Classe = 1"
+	"AL = 23.53"
+	"K1 = 45.12" -> "AL = 23.53"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.53" -> "Classe = 1"
+	"AL = 23.62"
+	"K1 = 45.12" -> "AL = 23.62"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.62" -> "Classe = 1"
+	"AL = 26.65"
+	"K1 = 45.12" -> "AL = 26.65"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.65" -> "Classe = 2"
+	"K1 = 45.18"
+	"AL = 21.94"
+	"K1 = 45.18" -> "AL = 21.94"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 21.94" -> "Classe = 1"
+	"AL = 22.25"
+	"K1 = 45.18" -> "AL = 22.25"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.25" -> "Classe = 1"
+	"AL = 22.36"
+	"K1 = 45.18" -> "AL = 22.36"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.36" -> "Classe = 1"
+	"AL = 22.61"
+	"K1 = 45.18" -> "AL = 22.61"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.61" -> "Classe = 1"
+	"AL = 22.62"
+	"K1 = 45.18" -> "AL = 22.62"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.62" -> "Classe = 1"
+	"AL = 22.65"
+	"K1 = 45.18" -> "AL = 22.65"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.65" -> "Classe = 1"
+	"AL = 22.71"
+	"K1 = 45.18" -> "AL = 22.71"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.71" -> "Classe = 1"
+	"AL = 22.78"
+	"K1 = 45.18" -> "AL = 22.78"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.78" -> "Classe = 1"
+	"AL = 22.91"
+	"K1 = 45.18" -> "AL = 22.91"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 22.91" -> "Classe = 1"
+	"AL = 23.55"
+	"K1 = 45.18" -> "AL = 23.55"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.55" -> "Classe = 1"
+	"AL = 23.63"
+	"K1 = 45.18" -> "AL = 23.63"
+	"Classe = 1" [label="Classe = 1"]
+	"AL = 23.63" -> "Classe = 1"
+	"AL = 26.89"
+	"K1 = 45.18" -> "AL = 26.89"
+	"Classe = 2" [label="Classe = 2"]
+	"AL = 26.89" -> "Classe = 2"
+	"K1 = 45.24"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.24" -> "Classe = 1"
+	"K1 = 45.3"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.3" -> "Classe = 1"
+	"K1 = 45.36"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.36" -> "Classe = 1"
+	"K1 = 45.42"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.42" -> "Classe = 1"
+	"K1 = 45.49"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.49" -> "Classe = 1"
+	"K1 = 45.55"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.55" -> "Classe = 1"
+	"K1 = 45.61"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.61" -> "Classe = 1"
+	"K1 = 45.67"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.67" -> "Classe = 1"
+	"K1 = 45.73"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.73" -> "Classe = 1"
+	"K1 = 45.79"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.79" -> "Classe = 1"
+	"K1 = 45.86"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.86" -> "Classe = 1"
+	"K1 = 45.92"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.92" -> "Classe = 1"
+	"K1 = 45.98"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 45.98" -> "Classe = 1"
+	"K1 = 46.04"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.04" -> "Classe = 1"
+	"K1 = 46.11"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.11" -> "Classe = 1"
+	"K1 = 46.17"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.17" -> "Classe = 1"
+	"K1 = 46.23"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.23" -> "Classe = 1"
+	"K1 = 46.3"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.3" -> "Classe = 1"
+	"K1 = 46.34"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.34" -> "Classe = 1"
+	"K1 = 46.36"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.36" -> "Classe = 1"
+	"K1 = 46.42"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.42" -> "Classe = 1"
+	"K1 = 46.49"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.49" -> "Classe = 1"
+	"K1 = 46.55"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.55" -> "Classe = 1"
+	"K1 = 46.62"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.62" -> "Classe = 1"
+	"K1 = 46.68"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.68" -> "Classe = 1"
+	"K1 = 46.75"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.75" -> "Classe = 1"
+	"K1 = 46.81"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.81" -> "Classe = 1"
+	"K1 = 46.87"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.87" -> "Classe = 1"
+	"K1 = 46.94"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 46.94" -> "Classe = 1"
+	"K1 = 47.01"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.01" -> "Classe = 1"
+	"K1 = 47.07"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.07" -> "Classe = 1"
+	"K1 = 47.14"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.14" -> "Classe = 1"
+	"K1 = 47.17"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.17" -> "Classe = 1"
+	"K1 = 47.2"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.2" -> "Classe = 1"
+	"K1 = 47.3"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.3" -> "Classe = 1"
+	"K1 = 47.34"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.34" -> "Classe = 1"
+	"K1 = 47.4"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.4" -> "Classe = 1"
+	"K1 = 47.47"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.47" -> "Classe = 1"
+	"K1 = 47.54"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.54" -> "Classe = 1"
+	"K1 = 47.6"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.6" -> "Classe = 1"
+	"K1 = 47.74"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.74" -> "Classe = 1"
+	"K1 = 47.94"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 47.94" -> "Classe = 1"
+	"K1 = 48.35"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 48.35" -> "Classe = 1"
+	"K1 = 48.49"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 48.49" -> "Classe = 1"
+	"K1 = 48.63"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 48.63" -> "Classe = 1"
+	"K1 = 49.41"
+	"Classe = 1" [label="Classe = 1"]
+	"K1 = 49.41" -> "Classe = 1"
+}
