@@ -17,7 +17,6 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 def colunas(df):
-    print('aqui')
     return list(df.columns)
 
 def num_of_rows(df):
@@ -46,10 +45,10 @@ def categorize_columns_by_nulls(df):
         print(f'Number of missing values: {missing_count} out of {total_rows}')
         print(f'Missing percentage: {percentage:.2f}%')
         print()
-        if len(mostly_null) + len(partially_null) + len(no_null) == len(column_lst):
-            print("All columns categorized successfully.")
-        else:
-            print("Error: Some columns were not categorized.")
+    if len(mostly_null) + len(partially_null) + len(no_null) == len(column_lst):
+        print("All columns categorized successfully.")
+    else:
+        print("Error: Some columns were not categorized.")
 
     return mostly_null, partially_null, no_null
 
@@ -78,6 +77,17 @@ def fill_null_with_mean(df, column):
 
 def drop_rows_with_nulls(df):
     return df.dropna()
+
+# Função para remover coluna por nome
+def drop_column_by_name(df, column):
+    if column in colunas(df):
+        return df.drop(column, axis=1)
+    print(f"Column '{column}' not found in the DataFrame.")
+    return df
+
+# Função para normalizar os valores da coluna
+def normalizar_minmax(df):
+    return (df - df.min()) / (df.max() - df.min())
 
 # Função para treinar e avaliar o modelo
 def train_and_evaluate(df, imputation_method):
@@ -110,8 +120,17 @@ mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
 data_clean = remove_mostly_null_columns(data, mostly_null)
 # Criar e treinar modelos com diferentes métodos de imputação
 
+data_clean=drop_column_by_name(data_clean, 'SkinThickness')
+data_clean=drop_column_by_name(data_clean, 'Pregnancies')
+
+partially_null.remove('SkinThickness')
+no_null.remove('Pregnancies')
+
+# data_clean = normalizar_minmax(data_clean)
+
 # 1. Imputação com moda
 data_mode = data_clean.copy()
+print(f'\n\n{data_mode.head()}\n\n')
 for column in partially_null:
     data_mode = fill_null_with_mode(data_mode, column)
 mode_model=train_and_evaluate(data_mode, 'mode')
@@ -133,8 +152,10 @@ data_dropped = data_clean.copy()
 data_dropped = drop_rows_with_nulls(data_dropped)
 drop_data_model=train_and_evaluate(data_dropped, 'drop_data')
 
-x_colunas = [col for col in data_clean.columns if col != 'Outcome']
-
+coluna = colunas(data_clean).copy()
+coluna.remove('Outcome')
+x_colunas = coluna
+print(f'\n\nData frame depois depois do KDD [até a fase 4]:\n\t{data_clean.head()}\n\n')
 # # Salvar os conjuntos de dados processados
 # data_mode.to_csv('diabetes_mode_imputed.csv', index=False)
 # data_median.to_csv('diabetes_median_imputed.csv', index=False)
@@ -150,13 +171,14 @@ print(f'{data_app.head()}')
 mostly_null, partially_null, no_null = categorize_columns_by_nulls(data_app)
 
 X_app = data_app[x_colunas]# Realizar as previsões
+# X_app = normalizar_minmax(X_app)
 
 for column in partially_null:
     X_app = fill_null_with_mode(X_app, column)
 print(f'{X_app.head()}')
 
-# mode_model = joblib.load('mode_model.pkl')
-# y_pred = mode_model.predict(X_app)
+mode_model = joblib.load('mode_model.pkl')
+y_pred = mode_model.predict(X_app)
 
 # drop_data_model = joblib.load('drop_data_model.pkl')
 # y_pred = drop_data_model.predict(X_app)
@@ -164,11 +186,8 @@ print(f'{X_app.head()}')
 # mean_model = joblib.load('mean_model.pkl')
 # y_pred = mean_model.predict(X_app)
 
-median_model = joblib.load('median_model.pkl')
-y_pred = median_model.predict(X_app)
-
-# Exibir as previsões
-# print("Previsões:", y_pred)
+# median_model = joblib.load('median_model.pkl')
+# y_pred = median_model.predict(X_app)
 
 # Enviando previsões realizadas com o modelo para o servidor
 URL = "https://aydanomachado.com/mlclass/01_Preprocessing.php"
