@@ -9,23 +9,27 @@ no servidor.
 @author: Aydano Machado <aydano.machado@gmail.com>
 """
 
-import pandas as pd
-from sklearn.neighbors import KNeighborsClassifier
 import requests
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
+import joblib
 
-print('\n - Lendo o arquivo com o dataset sobre diabetes')
-data = pd.read_csv('/Users/davideneas/Library/CloudStorage/OneDrive-InstitutodeComputação-UniversidadeFederaldeAlagoas/4. Quarto Periodo/PM/atividades/mlclass/01_Preprocessing/diabetes_dataset.csv')
+def colunas(df):
+    print('aqui')
+    return list(df.columns)
 
+def num_of_rows(df):
+    return len(df)
 # Função para categorizar as colunas com base na quantidade de valores nulos
 def categorize_columns_by_nulls(df):
-    column_lst = list(df.columns)
+    column_lst = colunas(df)
     mostly_null = []
     partially_null = []
     no_null = []
 
-    total_rows = len(df)  # Obtém o número total de linhas
+    total_rows = num_of_rows(df)  # Obtém o número total de linhas
 
     for column in column_lst:
         missing_count = df[column].isnull().sum()
@@ -42,11 +46,10 @@ def categorize_columns_by_nulls(df):
         print(f'Number of missing values: {missing_count} out of {total_rows}')
         print(f'Missing percentage: {percentage:.2f}%')
         print()
-
-    if len(mostly_null) + len(partially_null) + len(no_null) == len(column_lst):
-        print("All columns categorized successfully.")
-    else:
-        print("Error: Some columns were not categorized.")
+        if len(mostly_null) + len(partially_null) + len(no_null) == len(column_lst):
+            print("All columns categorized successfully.")
+        else:
+            print("Error: Some columns were not categorized.")
 
     return mostly_null, partially_null, no_null
 
@@ -54,65 +57,124 @@ def categorize_columns_by_nulls(df):
 def remove_mostly_null_columns(df, mostly_null):
     return df.drop(mostly_null, axis=1)
 
-# Função para preencher valores nulos com zero
-def fill_null_with_zero(df, partially_null):
-    for column in partially_null:
-        df[column] = df[column].fillna(0)
+# Funções para preencher valores nulos
+def fill_null_with_mode(df, column):
+    mode_value = df[column].mode()[0]
+    print(f'Moda de {column}: {mode_value}')
+    df[column] = df[column].fillna(mode_value)
     return df
 
-# Função para remover coluna por nome
-def drop_column_by_name(df, column='id'):
-    if column in df.columns:
-        return df.drop(column, axis=1)
-    print(f"Column '{column}' not found in the DataFrame.")
+def fill_null_with_median(df, column):
+    median_value = df[column].median()
+    print(f'Mediana de {column}: {median_value}')
+    df[column] = df[column].fillna(median_value)
     return df
+
+def fill_null_with_mean(df, column):
+    mean_value = df[column].mean()
+    print(f'Média de {column}: {mean_value}')
+    df[column] = df[column].fillna(mean_value)
+    return df
+
+def drop_rows_with_nulls(df):
+    return df.dropna()
+
+# Função para treinar e avaliar o modelo
+def train_and_evaluate(df, imputation_method):
+    X = df.drop('Outcome', axis=1)
+    y = df['Outcome']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+    total_num_row=num_of_rows(df)
+    n_neighbors=5
+    if total_num_row%2:
+        n_neighbors=6
+    print(f'Número de linhas da base de dados: {total_num_row}\nNúmero de vizinhos usados no treinanmento: {n_neighbors}')
+    model = KNeighborsClassifier(n_neighbors)
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+
+    accuracy = accuracy_score(y_test, y_pred)
+    print(f'Acurácia com {imputation_method}: {accuracy:.4f}\n\n')
+    model_filename = f"{imputation_method}_model.pkl"
+    joblib.dump(model, model_filename)
+    return model
+
+
+# Carregar o dataset
+data = pd.read_csv('diabetes_dataset.csv')
 
 # Etapa 1: Categorizar as colunas
-print(' - Categorizando as colunas')
 mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
 
 # Etapa 2: Remover colunas com valores nulos em sua maioria
-print(' - Removendo colunas com valores nulos em sua maioria')
-data = remove_mostly_null_columns(data, mostly_null)
+data_clean = remove_mostly_null_columns(data, mostly_null)
+# Criar e treinar modelos com diferentes métodos de imputação
 
-# Etapa 3: Preencher valores nulos parciais com zero
-print(' - Preenchendo valores nulos parciais com zero')
-data = fill_null_with_zero(data, partially_null)
+# 1. Imputação com moda
+data_mode = data_clean.copy()
+for column in partially_null:
+    data_mode = fill_null_with_mode(data_mode, column)
+mode_model=train_and_evaluate(data_mode, 'mode')
 
-# Etapa 4: Inspecionar as colunas para verificar se ainda há valores nulos
-print(' - Verificando valores nulos na base de dados')
-mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
+# 2. Imputação com mediana
+data_median = data_clean.copy()
+for column in partially_null:
+    data_median = fill_null_with_median(data_median, column)
+median_model=train_and_evaluate(data_median, 'median')
 
-# Selecione as colunas de X e y
-X = data.drop(columns=['Outcome']) # Remover a coluna 'Outcome' que é o alvo
-y = data['Outcome']  # A coluna 'Outcome' é o alvo
+# 3. Imputação com média
+data_mean = data_clean.copy()
+for column in partially_null:
+    data_mean = fill_null_with_mean(data_mean, column)
+mean_model=train_and_evaluate(data_mean, 'mean')
 
-# Verificar se há valores ausentes antes de treinar o modelo
-if X.isnull().sum().sum() > 0:
-    print("Existem valores ausentes em X. Corrija antes de treinar o modelo.")
-    exit()
-else:
-    print("Não há valores ausentes em X. Continuando com o treino do modelo.")
+# 4. Exclusão de linhas com valores nulos
+data_dropped = data_clean.copy()
+data_dropped = drop_rows_with_nulls(data_dropped)
+drop_data_model=train_and_evaluate(data_dropped, 'drop_data')
 
-# Criando o modelo preditivo para a base trabalhada
-print(' - Criando modelo preditivo')
-neigh = KNeighborsClassifier(n_neighbors=3)
-neigh.fit(X, y)
+x_colunas = [col for col in data_clean.columns if col != 'Outcome']
+
+# # Salvar os conjuntos de dados processados
+# data_mode.to_csv('diabetes_mode_imputed.csv', index=False)
+# data_median.to_csv('diabetes_median_imputed.csv', index=False)
+# data_mean.to_csv('diabetes_mean_imputed.csv', index=False)
+# data_dropped.to_csv('diabetes_dropped.csv', index=False)
+
 
 # Aplicando o modelo e enviando para o servidor
 print(' - Aplicando modelo e enviando para o servidor')
-data_app = pd.read_csv('/Users/davideneas/Library/CloudStorage/OneDrive-InstitutodeComputação-UniversidadeFederaldeAlagoas/4. Quarto Periodo/PM/atividades/mlclass/01_Preprocessing/diabetes_app.csv')
+data_app = pd.read_csv('diabetes_app.csv')
 
-# Garantir que as colunas de X estejam no data_app
-data_app = data_app[X.columns]  # Ajuste para que as colunas em data_app correspondam às de X
+print(f'{data_app.head()}')
+mostly_null, partially_null, no_null = categorize_columns_by_nulls(data_app)
 
-y_pred = neigh.predict(data_app)
+X_app = data_app[x_colunas]# Realizar as previsões
+
+for column in partially_null:
+    X_app = fill_null_with_mode(X_app, column)
+print(f'{X_app.head()}')
+
+# mode_model = joblib.load('mode_model.pkl')
+# y_pred = mode_model.predict(X_app)
+
+# drop_data_model = joblib.load('drop_data_model.pkl')
+# y_pred = drop_data_model.predict(X_app)
+
+# mean_model = joblib.load('mean_model.pkl')
+# y_pred = mean_model.predict(X_app)
+
+median_model = joblib.load('median_model.pkl')
+y_pred = median_model.predict(X_app)
+
+# Exibir as previsões
+# print("Previsões:", y_pred)
 
 # Enviando previsões realizadas com o modelo para o servidor
 URL = "https://aydanomachado.com/mlclass/01_Preprocessing.php"
 
 #TODO Substituir pela sua chave aqui
-DEV_KEY = "Eneas"
+DEV_KEY = "VG"
 
 # json para ser enviado para o servidor
 data = {'dev_key': DEV_KEY,
