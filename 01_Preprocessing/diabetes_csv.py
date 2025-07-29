@@ -11,10 +11,7 @@ no servidor.
 
 import requests
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
-import joblib
 
 def colunas(df):
     return list(df.columns)
@@ -90,104 +87,59 @@ def normalizar_minmax(df):
     return (df - df.min()) / (df.max() - df.min())
 
 # Função para treinar e avaliar o modelo
-def train_and_evaluate(df, imputation_method):
-    X = df.drop('Outcome', axis=1)
-    y = df['Outcome']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-    total_num_row=num_of_rows(df)
-    n_neighbors=5
-    if total_num_row%2:
-        n_neighbors=6
-    print(f'Número de linhas da base de dados: {total_num_row}\nNúmero de vizinhos usados no treinanmento: {n_neighbors}')
-    model = KNeighborsClassifier(n_neighbors)
-    model.fit(X_train, y_train)
-    y_pred = model.predict(X_test)
-
-    accuracy = accuracy_score(y_test, y_pred)
-    print(f'Acurácia com {imputation_method}: {accuracy:.4f}\n\n')
-    model_filename = f"{imputation_method}_model.pkl"
-    joblib.dump(model, model_filename)
-    return model
+def identificar_zeros(df):
+    cols_with_zeros = [col for col in df.columns if (df[col] == 0).any()]
+    return cols_with_zeros
 
 
-# Carregar o dataset
+
+print('\n - Lendo o arquivo com o dataset sobre diabetes')
 data = pd.read_csv('diabetes_dataset.csv')
 
-# Etapa 1: Categorizar as colunas
 mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
 
-# Etapa 2: Remover colunas com valores nulos em sua maioria
-data_clean = remove_mostly_null_columns(data, mostly_null)
-# Criar e treinar modelos com diferentes métodos de imputação
+# # 1. Imputação com moda
+# for column in partially_null:
+#     data = fill_null_with_mode(data, column)
 
-data_clean=drop_column_by_name(data_clean, 'SkinThickness')
-data_clean=drop_column_by_name(data_clean, 'Pregnancies')
-
-partially_null.remove('SkinThickness')
-no_null.remove('Pregnancies')
-
-# data_clean = normalizar_minmax(data_clean)
-
-# 1. Imputação com moda
-data_mode = data_clean.copy()
-print(f'\n\n{data_mode.head()}\n\n')
+# # 2. Imputação com mediana
 for column in partially_null:
-    data_mode = fill_null_with_mode(data_mode, column)
-mode_model=train_and_evaluate(data_mode, 'mode')
-
-# 2. Imputação com mediana
-data_median = data_clean.copy()
-for column in partially_null:
-    data_median = fill_null_with_median(data_median, column)
-median_model=train_and_evaluate(data_median, 'median')
+    data = fill_null_with_median(data, column)
 
 # 3. Imputação com média
-data_mean = data_clean.copy()
-for column in partially_null:
-    data_mean = fill_null_with_mean(data_mean, column)
-mean_model=train_and_evaluate(data_mean, 'mean')
+# for column in partially_null:
+#     data = fill_null_with_mean(data, column)
 
 # 4. Exclusão de linhas com valores nulos
-data_dropped = data_clean.copy()
-data_dropped = drop_rows_with_nulls(data_dropped)
-drop_data_model=train_and_evaluate(data_dropped, 'drop_data')
+# data = drop_rows_with_nulls(data)
 
-coluna = colunas(data_clean).copy()
-coluna.remove('Outcome')
-x_colunas = coluna
-print(f'\n\nData frame depois depois do KDD [até a fase 4]:\n\t{data_clean.head()}\n\n')
-# # Salvar os conjuntos de dados processados
-# data_mode.to_csv('diabetes_mode_imputed.csv', index=False)
-# data_median.to_csv('diabetes_median_imputed.csv', index=False)
-# data_mean.to_csv('diabetes_mean_imputed.csv', index=False)
-# data_dropped.to_csv('diabetes_dropped.csv', index=False)
+# 5. Remoção de colunas que não dá pra preencher
+data = remove_mostly_null_columns(data, mostly_null)
+
+colunas_zero=identificar_zeros(data)
+print(f'\n\nColunas com valores zerados: {colunas_zero}\n\n')
 
 
-# Aplicando o modelo e enviando para o servidor
+# Criando X and y par ao algorítmo de aprendizagem de máquina.
+print(' - Criando X e y para o algoritmo de aprendizagem a partir do arquivo diabetes_dataset')
+# Caso queira modificar as colunas consideradas basta algera o array a seguir.
+feature_cols = ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness'
+                , 'BMI', 'DiabetesPedigreeFunction', 'Age']
+X = data[feature_cols]
+
+y = data.Outcome
+
+# Ciando o modelo preditivo para a base trabalhada
+print(' - Criando modelo preditivo')
+neigh = KNeighborsClassifier(n_neighbors=3)
+neigh.fit(X, y)
+
+#realizando previsões com o arquivo de
 print(' - Aplicando modelo e enviando para o servidor')
 data_app = pd.read_csv('diabetes_app.csv')
+data_app = data_app[feature_cols]
 
-print(f'{data_app.head()}')
-mostly_null, partially_null, no_null = categorize_columns_by_nulls(data_app)
-
-X_app = data_app[x_colunas]# Realizar as previsões
-# X_app = normalizar_minmax(X_app)
-
-for column in partially_null:
-    X_app = fill_null_with_mode(X_app, column)
-print(f'{X_app.head()}')
-
-mode_model = joblib.load('mode_model.pkl')
-y_pred = mode_model.predict(X_app)
-
-# drop_data_model = joblib.load('drop_data_model.pkl')
-# y_pred = drop_data_model.predict(X_app)
-
-# mean_model = joblib.load('mean_model.pkl')
-# y_pred = mean_model.predict(X_app)
-
-# median_model = joblib.load('median_model.pkl')
-# y_pred = median_model.predict(X_app)
+y_pred = neigh.predict(data_app)
 
 # Enviando previsões realizadas com o modelo para o servidor
 URL = "https://aydanomachado.com/mlclass/01_Preprocessing.php"
@@ -196,11 +148,11 @@ URL = "https://aydanomachado.com/mlclass/01_Preprocessing.php"
 DEV_KEY = "VG"
 
 # json para ser enviado para o servidor
-data = {'dev_key': DEV_KEY,
-        'predictions': pd.Series(y_pred).to_json(orient='values')}
+data = {'dev_key':DEV_KEY,
+        'predictions':pd.Series(y_pred).to_json(orient='values')}
 
 # Enviando requisição e salvando o objeto resposta
-r = requests.post(url=URL, data=data)
+r = requests.post(url = URL, data = data)
 
 # Extraindo e imprimindo o texto da resposta
 pastebin_url = r.text
