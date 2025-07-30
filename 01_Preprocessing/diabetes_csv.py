@@ -99,12 +99,12 @@ data = pd.read_csv('diabetes_dataset.csv')
 mostly_null, partially_null, no_null = categorize_columns_by_nulls(data)
 
 # # 1. Imputação com moda
-# for column in partially_null:
-#     data = fill_null_with_mode(data, column)
+for column in partially_null:
+    data = fill_null_with_mode(data, column)
 
 # # 2. Imputação com mediana
-for column in partially_null:
-    data = fill_null_with_median(data, column)
+# for column in partially_null:
+#     data = fill_null_with_median(data, column)
 
 # 3. Imputação com média
 # for column in partially_null:
